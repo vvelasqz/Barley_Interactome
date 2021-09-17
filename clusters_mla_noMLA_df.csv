@@ -1,0 +1,1567 @@
+"","node","cluster","interactor","description","timepoint"
+"1","HORVU.MOREX.r2.1HG0000020",1,FALSE,"Phospholipid-transporting ATPase",NA
+"2","HORVU.MOREX.r2.1HG0001560",2,FALSE,"Phosphoinositide phosphatase family protein",NA
+"3","HORVU.MOREX.r2.1HG0002940",1,FALSE,"O-methyltransferase",NA
+"4","HORVU.MOREX.r2.1HG0004810",3,FALSE,"Actin depolymerizing factor","32H"
+"5","HORVU.MOREX.r2.1HG0005340",1,FALSE,"Glucose-6-phosphate isomerase",NA
+"6","HORVU.MOREX.r2.1HG0005400",1,FALSE,"Armadillo/beta-catenin-like repeat protein",NA
+"7","HORVU.MOREX.r2.1HG0006000",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"8","HORVU.MOREX.r2.1HG0006050",1,FALSE,"Cytochrome P450",NA
+"9","HORVU.MOREX.r2.1HG0006240",1,FALSE,"Glutathione S-transferase",NA
+"10","HORVU.MOREX.r2.1HG0006360",3,FALSE,"Agamous MADS-box transcription factor",NA
+"11","HORVU.MOREX.r2.1HG0009370",1,FALSE,"O-methyltransferase",NA
+"12","HORVU.MOREX.r2.1HG0009580",3,FALSE,"Disease resistance protein (TIR-NBS-LRR class) family",NA
+"13","HORVU.MOREX.r2.1HG0011030",1,FALSE,"11S globulin seed storage protein",NA
+"14","HORVU.MOREX.r2.1HG0011090",3,FALSE,"Dihydrolipoyl dehydrogenase","32H"
+"15","HORVU.MOREX.r2.1HG0011150",1,FALSE,"Acyl-CoA dehydrogenase",NA
+"16","HORVU.MOREX.r2.1HG0011220",2,FALSE,"Polyribonucleotide nucleotidyltransferase",NA
+"17","HORVU.MOREX.r2.1HG0012470",1,FALSE,"Metal tolerance protein",NA
+"18","HORVU.MOREX.r2.1HG0013080",1,FALSE,"Phosphate translocator",NA
+"19","HORVU.MOREX.r2.1HG0013190",3,FALSE,"Protein kinase",NA
+"20","HORVU.MOREX.r2.1HG0013320",1,FALSE,"RNA polymerase II subunit B1 CTD phosphatase RPAP2, putative",NA
+"21","HORVU.MOREX.r2.1HG0013380",1,FALSE,"Auxin influx transporter",NA
+"22","HORVU.MOREX.r2.1HG0014060",1,FALSE,"ABC transporter B family protein",NA
+"23","HORVU.MOREX.r2.1HG0014190",3,FALSE,"Chitinase",NA
+"24","HORVU.MOREX.r2.1HG0015020",1,FALSE,"2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein, putative",NA
+"25","HORVU.MOREX.r2.1HG0015100",3,FALSE,"Mitogen-activated protein kinase","32H"
+"26","HORVU.MOREX.r2.1HG0015850",3,FALSE,"Sucrose-phosphatase",NA
+"27","HORVU.MOREX.r2.1HG0016740",3,FALSE,"Transcription factor basic helix-loop-helix",NA
+"28","HORVU.MOREX.r2.1HG0016780",1,FALSE,"Asparagine--tRNA ligase",NA
+"29","HORVU.MOREX.r2.1HG0017460",3,FALSE,"Cullin-1",NA
+"30","HORVU.MOREX.r2.1HG0017470",3,FALSE,"Cullin-1",NA
+"31","HORVU.MOREX.r2.1HG0017810",2,FALSE,"Chromatin remodeling factor, putative",NA
+"32","HORVU.MOREX.r2.1HG0017830",3,FALSE,"Transport inhibitor response 1",NA
+"33","HORVU.MOREX.r2.1HG0018040",6,FALSE,"40S ribosomal protein S4",NA
+"34","HORVU.MOREX.r2.1HG0018440",1,FALSE,"Phenylalanine ammonia-lyase",NA
+"35","HORVU.MOREX.r2.1HG0018500",1,FALSE,"Gamma-tubulin complex component",NA
+"36","HORVU.MOREX.r2.1HG0019300",1,FALSE,"Dihydrolipoyl dehydrogenase",NA
+"37","HORVU.MOREX.r2.1HG0019750",3,FALSE,"AGAMOUS MADS box factor transcription factor",NA
+"38","HORVU.MOREX.r2.1HG0019760",3,FALSE,"Dihydrolipoyl dehydrogenase","32H"
+"39","HORVU.MOREX.r2.1HG0020680",6,FALSE,"Ribosomal protein","32H"
+"40","HORVU.MOREX.r2.1HG0021380",1,FALSE,"Alba DNA/RNA-binding protein",NA
+"41","HORVU.MOREX.r2.1HG0021520",5,FALSE,"Phototropic-responsive NPH3 family protein",NA
+"42","HORVU.MOREX.r2.1HG0022310",1,FALSE,"70 kDa heat shock protein",NA
+"43","HORVU.MOREX.r2.1HG0022960",1,FALSE,"70 kDa heat shock protein","32H"
+"44","HORVU.MOREX.r2.1HG0023190",3,FALSE,"WRKY transcription factor",NA
+"45","HORVU.MOREX.r2.1HG0023430",1,FALSE,"Malic enzyme","32H"
+"46","HORVU.MOREX.r2.1HG0023530",3,FALSE,"Auxin-responsive protein",NA
+"47","HORVU.MOREX.r2.1HG0023540",4,FALSE,"Proteasome subunit beta type","32H"
+"48","HORVU.MOREX.r2.1HG0023690",3,FALSE,"tRNA N6-adenosine threonylcarbamoyltransferase",NA
+"49","HORVU.MOREX.r2.1HG0024100",6,FALSE,"50S ribosomal protein L5",NA
+"50","HORVU.MOREX.r2.1HG0024570",3,FALSE,"Agamous MADS-box transcription factor",NA
+"51","HORVU.MOREX.r2.1HG0025130",1,FALSE,"40S ribosomal protein S7",NA
+"52","HORVU.MOREX.r2.1HG0025340",1,FALSE,"Rad3-related DNA helicase family protein",NA
+"53","HORVU.MOREX.r2.1HG0025370",1,FALSE,"Receptor-like kinase",NA
+"54","HORVU.MOREX.r2.1HG0025600",3,FALSE,"Abscisic acid receptor",NA
+"55","HORVU.MOREX.r2.1HG0025750",1,FALSE,"RNA-binding family protein",NA
+"56","HORVU.MOREX.r2.1HG0026120",2,FALSE,"Ferrochelatase",NA
+"57","HORVU.MOREX.r2.1HG0026750",6,FALSE,"40S ribosomal protein S3a",NA
+"58","HORVU.MOREX.r2.1HG0026840",1,FALSE,"Phospholipid-transporting ATPase",NA
+"59","HORVU.MOREX.r2.1HG0027030",3,FALSE,"LIM domain and RING finger protein",NA
+"60","HORVU.MOREX.r2.1HG0027180",5,FALSE,"Vacuolar protein sorting-associated protein 20",NA
+"61","HORVU.MOREX.r2.1HG0027750",4,FALSE,"Histone acetyltransferase GCN5",NA
+"62","HORVU.MOREX.r2.1HG0028810",2,FALSE,"Methylthioribose-1-phosphate isomerase",NA
+"63","HORVU.MOREX.r2.1HG0029020",3,FALSE,"Ribulose bisphosphate carboxylase small chain","32H"
+"64","HORVU.MOREX.r2.1HG0030460",1,FALSE,"Ubiquitin-conjugating enzyme E2","32H"
+"65","HORVU.MOREX.r2.1HG0031510",4,FALSE,"60 kDa chaperonin","32H"
+"66","HORVU.MOREX.r2.1HG0031540",1,FALSE,"Cysteine--tRNA ligase",NA
+"67","HORVU.MOREX.r2.1HG0031760",6,FALSE,"60S ribosomal protein L21",NA
+"68","HORVU.MOREX.r2.1HG0032840",2,FALSE,"UDP-glucose:glycoprotein glucosyltransferase",NA
+"69","HORVU.MOREX.r2.1HG0033460",1,FALSE,"Transportin-3",NA
+"70","HORVU.MOREX.r2.1HG0033530",3,FALSE,"Malate dehydrogenase",NA
+"71","HORVU.MOREX.r2.1HG0035320",1,FALSE,"RING/U-box superfamily protein",NA
+"72","HORVU.MOREX.r2.1HG0035690",1,FALSE,"ALG-2 interacting protein X",NA
+"73","HORVU.MOREX.r2.1HG0036700",3,FALSE,"Protochlorophyllide reductase","32H"
+"74","HORVU.MOREX.r2.1HG0038310",1,FALSE,"Valine--tRNA ligase",NA
+"75","HORVU.MOREX.r2.1HG0038510",1,FALSE,"U1 small nuclear ribonucleoprotein 70 kDa",NA
+"76","HORVU.MOREX.r2.1HG0038710",5,TRUE,"Kinesin-like protein",NA
+"77","HORVU.MOREX.r2.1HG0038750",1,FALSE,"Cytochrome P450 family protein","32H"
+"78","HORVU.MOREX.r2.1HG0039190",3,FALSE,"Cyclin family protein",NA
+"79","HORVU.MOREX.r2.1HG0039980",2,FALSE,"COP9 signalosome complex subunit 1",NA
+"80","HORVU.MOREX.r2.1HG0040860",3,FALSE,"Mitogen-activated protein kinase",NA
+"81","HORVU.MOREX.r2.1HG0040990",1,FALSE,"Xanthine dehydrogenase",NA
+"82","HORVU.MOREX.r2.1HG0041310",3,FALSE,"Abscisic acid receptor",NA
+"83","HORVU.MOREX.r2.1HG0041630",1,FALSE,"DnaJ-like protein",NA
+"84","HORVU.MOREX.r2.1HG0041920",3,FALSE,"Phenylalanine--tRNA ligase beta subunit",NA
+"85","HORVU.MOREX.r2.1HG0042030",4,FALSE,"26S proteasome regulatory subunit family protein",NA
+"86","HORVU.MOREX.r2.1HG0042190",1,FALSE,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12",NA
+"87","HORVU.MOREX.r2.1HG0042520",3,FALSE,"E2 ubiquitin-conjugating-like enzyme",NA
+"88","HORVU.MOREX.r2.1HG0043100",1,FALSE,"Expansin-like protein",NA
+"89","HORVU.MOREX.r2.1HG0043190",1,FALSE,"Protein kinase family protein, putative, expressed",NA
+"90","HORVU.MOREX.r2.1HG0044410",1,FALSE,"Flavin-containing monooxygenase",NA
+"91","HORVU.MOREX.r2.1HG0044480",3,FALSE,"Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein",NA
+"92","HORVU.MOREX.r2.1HG0044700",2,FALSE,"CCR4-NOT transcription complex subunit 1",NA
+"93","HORVU.MOREX.r2.1HG0044870",4,FALSE,"T-complex protein 1",NA
+"94","HORVU.MOREX.r2.1HG0044900",1,FALSE,"Dynamin, putative",NA
+"95","HORVU.MOREX.r2.1HG0045430",3,FALSE,"Calcineurin B-like protein",NA
+"96","HORVU.MOREX.r2.1HG0045470",1,FALSE,"Phospho-2-dehydro-3-deoxyheptonate aldolase",NA
+"97","HORVU.MOREX.r2.1HG0045540",1,FALSE,"Nucleoside diphosphate kinase",NA
+"98","HORVU.MOREX.r2.1HG0045760",1,FALSE,"Zinc import ATP-binding protein ZnuC",NA
+"99","HORVU.MOREX.r2.1HG0047940",5,FALSE,"F21O3.15 protein",NA
+"100","HORVU.MOREX.r2.1HG0048720",1,FALSE,"Receptor-like kinase",NA
+"101","HORVU.MOREX.r2.1HG0049370",3,FALSE,"Importin subunit beta-1",NA
+"102","HORVU.MOREX.r2.1HG0050020",1,FALSE,"Pyruvate, phosphate dikinase",NA
+"103","HORVU.MOREX.r2.1HG0051220",1,FALSE,"Coatomer subunit delta","32H"
+"104","HORVU.MOREX.r2.1HG0051280",4,FALSE,"Argininosuccinate synthase","32H"
+"105","HORVU.MOREX.r2.1HG0051870",3,FALSE,"Plasma membrane ATPase",NA
+"106","HORVU.MOREX.r2.1HG0051960",3,FALSE,"NAC domain-containing protein",NA
+"107","HORVU.MOREX.r2.1HG0052390",3,FALSE,"PHD finger alfin-like protein",NA
+"108","HORVU.MOREX.r2.1HG0052400",1,FALSE,"Alpha/beta-hydrolase-like protein","32H"
+"109","HORVU.MOREX.r2.1HG0052620",1,FALSE,"Guanosine nucleotide diphosphate dissociation inhibitor",NA
+"110","HORVU.MOREX.r2.1HG0052630",1,FALSE,"Guanosine nucleotide diphosphate dissociation inhibitor",NA
+"111","HORVU.MOREX.r2.1HG0052940",1,FALSE,"Tubulin beta chain",NA
+"112","HORVU.MOREX.r2.1HG0053340",3,FALSE,"Potassium channel",NA
+"113","HORVU.MOREX.r2.1HG0053790",1,FALSE,"Sulfite reductase [NADPH] hemoprotein beta-component",NA
+"114","HORVU.MOREX.r2.1HG0055140",3,FALSE,"Ethylene-responsive transcription factor, putative",NA
+"115","HORVU.MOREX.r2.1HG0055260",3,FALSE,"Phosphoglycerate kinase",NA
+"116","HORVU.MOREX.r2.1HG0055890",1,FALSE,"Tubulin beta chain",NA
+"117","HORVU.MOREX.r2.1HG0056070",3,FALSE,"SNF1-related protein kinase regulatory subunit beta-1",NA
+"118","HORVU.MOREX.r2.1HG0056090",3,FALSE,"Calmodulin",NA
+"119","HORVU.MOREX.r2.1HG0056110",4,FALSE,"Proteasome subunit alpha type",NA
+"120","HORVU.MOREX.r2.1HG0056230",2,FALSE,"60S ribosomal protein L30",NA
+"121","HORVU.MOREX.r2.1HG0056380",1,FALSE,"NADH-cytochrome b5 reductase","32H"
+"122","HORVU.MOREX.r2.1HG0056390",1,FALSE,"RING/U-box superfamily protein",NA
+"123","HORVU.MOREX.r2.1HG0057070",1,FALSE,"Ubiquitin-conjugating enzyme E2",NA
+"124","HORVU.MOREX.r2.1HG0057640",1,FALSE,"TOM1-like protein 2",NA
+"125","HORVU.MOREX.r2.1HG0058860",6,FALSE,"30S ribosomal protein S12",NA
+"126","HORVU.MOREX.r2.1HG0059160",6,FALSE,"30S ribosomal protein S8, putative",NA
+"127","HORVU.MOREX.r2.1HG0059290",1,FALSE,"Ubiquitin conjugating enzyme E2","32H"
+"128","HORVU.MOREX.r2.1HG0059860",2,FALSE,"Auxin efflux carrier component",NA
+"129","HORVU.MOREX.r2.1HG0060090",1,FALSE,"HXXXD-type acyl-transferase family protein",NA
+"130","HORVU.MOREX.r2.1HG0060180",1,FALSE,"Auxin influx transporter",NA
+"131","HORVU.MOREX.r2.1HG0060990",5,FALSE,"DUF668 family protein",NA
+"132","HORVU.MOREX.r2.1HG0061420",1,FALSE,"Polypyrimidine tract-binding protein-like protein",NA
+"133","HORVU.MOREX.r2.1HG0061590",1,FALSE,"Soluble inorganic pyrophosphatase","32H"
+"134","HORVU.MOREX.r2.1HG0062040",2,FALSE,"ATP-dependent 6-phosphofructokinase",NA
+"135","HORVU.MOREX.r2.1HG0062050",1,FALSE,"Mitochondrial-processing peptidase subunit alpha",NA
+"136","HORVU.MOREX.r2.1HG0062120",1,FALSE,"Inorganic pyrophosphatase family protein",NA
+"137","HORVU.MOREX.r2.1HG0062540",5,FALSE,"Protein kinase",NA
+"138","HORVU.MOREX.r2.1HG0062690",1,FALSE,"Trehalose-6-phosphate synthase 6",NA
+"139","HORVU.MOREX.r2.1HG0064440",2,FALSE,"Glutamate--tRNA ligase",NA
+"140","HORVU.MOREX.r2.1HG0064910",1,FALSE,"Sec14p-like phosphatidylinositol transfer family protein",NA
+"141","HORVU.MOREX.r2.1HG0065080",1,FALSE,"AP-1 complex subunit mu-1","32H"
+"142","HORVU.MOREX.r2.1HG0065490",3,FALSE,"60S ribosomal protein l28",NA
+"143","HORVU.MOREX.r2.1HG0065550",2,FALSE,"Vesicle transport V-SNARE protein",NA
+"144","HORVU.MOREX.r2.1HG0065630",5,FALSE,"IQ domain-containing protein",NA
+"145","HORVU.MOREX.r2.1HG0066210",3,FALSE,"Protein phosphatase 2C",NA
+"146","HORVU.MOREX.r2.1HG0066230",3,FALSE,"WRKY transcription factor",NA
+"147","HORVU.MOREX.r2.1HG0066450",1,FALSE,"6-phosphogluconate dehydrogenase, decarboxylating",NA
+"148","HORVU.MOREX.r2.1HG0067230",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"149","HORVU.MOREX.r2.1HG0067330",1,FALSE,"Hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyltransferase",NA
+"150","HORVU.MOREX.r2.1HG0067490",1,FALSE,"Malate dehydrogenase","32H"
+"151","HORVU.MOREX.r2.1HG0067520",4,FALSE,"26S proteasome non-ATPase regulatory subunit 1",NA
+"152","HORVU.MOREX.r2.1HG0068000",1,FALSE,"Alpha-glucan water dikinase",NA
+"153","HORVU.MOREX.r2.1HG0068430",1,FALSE,"Threonine synthase","32H"
+"154","HORVU.MOREX.r2.1HG0068730",2,FALSE,"Serine/threonine-protein phosphatase",NA
+"155","HORVU.MOREX.r2.1HG0068780",3,FALSE,"GDP-mannose 4,6-dehydratase",NA
+"156","HORVU.MOREX.r2.1HG0069340",3,FALSE,"Guanine nucleotide-binding protein subunit beta-1",NA
+"157","HORVU.MOREX.r2.1HG0069590",2,FALSE,"Nucleolar family protein",NA
+"158","HORVU.MOREX.r2.1HG0069900",1,FALSE,"Cyclin-D1-binding protein 1",NA
+"159","HORVU.MOREX.r2.1HG0070020",1,FALSE,"Asparagine synthetase",NA
+"160","HORVU.MOREX.r2.1HG0070120",2,FALSE,"RuvB-like helicase",NA
+"161","HORVU.MOREX.r2.1HG0070270",1,FALSE,"1-deoxy-D-xylulose 5-phosphate synthase",NA
+"162","HORVU.MOREX.r2.1HG0070320",1,FALSE,"Dynamin-related protein","32H"
+"163","HORVU.MOREX.r2.1HG0070480",6,FALSE,"60S ribosomal protein L37a",NA
+"164","HORVU.MOREX.r2.1HG0071390",8,TRUE,"Golgin candidate 5/TATA element modulatory factor",NA
+"165","HORVU.MOREX.r2.1HG0072390",1,FALSE,"Splicing factor U2af small subunit A","32H"
+"166","HORVU.MOREX.r2.1HG0072860",1,FALSE,"Urease accessory protein ureG",NA
+"167","HORVU.MOREX.r2.1HG0072870",1,FALSE,"Phosphoinositide phosphatase family protein",NA
+"168","HORVU.MOREX.r2.1HG0073100",1,FALSE,"ABC transporter ATP-binding protein ARB1","32H"
+"169","HORVU.MOREX.r2.1HG0073140",1,FALSE,"ABC transporter ATP-binding protein ARB1",NA
+"170","HORVU.MOREX.r2.1HG0073230",3,FALSE,"Kinase family protein",NA
+"171","HORVU.MOREX.r2.1HG0073250",3,FALSE,"GDP-mannose-3',5'-epimerase","32H"
+"172","HORVU.MOREX.r2.1HG0073380",2,FALSE,"Eukaryotic translation initiation factor 3 subunit D",NA
+"173","HORVU.MOREX.r2.1HG0073660",1,FALSE,"Subtilisin-like protease",NA
+"174","HORVU.MOREX.r2.1HG0073960",1,FALSE,"O-methyltransferase",NA
+"175","HORVU.MOREX.r2.1HG0074060",3,FALSE,"50S ribosomal protein L7/L12",NA
+"176","HORVU.MOREX.r2.1HG0074070",3,FALSE,"MYB transcription factor",NA
+"177","HORVU.MOREX.r2.1HG0074710",1,FALSE,"Ketol-acid reductoisomerase (NADP(+))",NA
+"178","HORVU.MOREX.r2.1HG0074920",4,FALSE,"Proteasome subunit beta type",NA
+"179","HORVU.MOREX.r2.1HG0075160",3,FALSE,"Mitogen-activated protein kinase",NA
+"180","HORVU.MOREX.r2.1HG0075250",1,FALSE,"Flavin-containing monooxygenase",NA
+"181","HORVU.MOREX.r2.1HG0075270",1,FALSE,"Isoprenylcysteine alpha-carbonyl methylesterase ICME",NA
+"182","HORVU.MOREX.r2.1HG0076120",1,FALSE,"Asparagine synthetase",NA
+"183","HORVU.MOREX.r2.1HG0076500",3,FALSE,"Calcium-dependent protein kinase",NA
+"184","HORVU.MOREX.r2.1HG0076940",5,FALSE,"TPR repeat-containing thioredoxin TTL1",NA
+"185","HORVU.MOREX.r2.1HG0077910",1,FALSE,"DNA damage-binding protein 1",NA
+"186","HORVU.MOREX.r2.1HG0078080",2,FALSE,"Translation initiation factor if-2, putative",NA
+"187","HORVU.MOREX.r2.1HG0078200",1,FALSE,"V-type proton ATPase subunit C",NA
+"188","HORVU.MOREX.r2.1HG0078260",3,FALSE,"Phosphatase 2C",NA
+"189","HORVU.MOREX.r2.1HG0078280",1,FALSE,"Flavonoid 3'-hydroxylase",NA
+"190","HORVU.MOREX.r2.1HG0078410",3,FALSE,"ATP-dependent RNA helicase",NA
+"191","HORVU.MOREX.r2.1HG0078550",1,FALSE,"Nucleoside diphosphate kinase",NA
+"192","HORVU.MOREX.r2.2HG0078890",1,FALSE,"Cysteine synthase","32H"
+"193","HORVU.MOREX.r2.2HG0079930",2,FALSE,"Protein transport Sec24-like protein","32H"
+"194","HORVU.MOREX.r2.2HG0080700",1,FALSE,"Pectate lyase",NA
+"195","HORVU.MOREX.r2.2HG0081770",2,FALSE,"Actin-related protein","32H"
+"196","HORVU.MOREX.r2.2HG0082090",1,FALSE,"ABC transporter B family protein",NA
+"197","HORVU.MOREX.r2.2HG0082540",3,FALSE,"3-ketoacyl-CoA thiolase",NA
+"198","HORVU.MOREX.r2.2HG0082650",1,FALSE,"dimethylallyl, adenosine tRNA methylthiotransferase",NA
+"199","HORVU.MOREX.r2.2HG0082710",3,FALSE,"Cullin-associated NEDD8-dissociated protein 1",NA
+"200","HORVU.MOREX.r2.2HG0084300",4,FALSE,"60 kDa chaperonin",NA
+"201","HORVU.MOREX.r2.2HG0085310",2,FALSE,"Vacuolar protein-sorting protein 33",NA
+"202","HORVU.MOREX.r2.2HG0085510",1,FALSE,"Glycerol-3-phosphate dehydrogenase",NA
+"203","HORVU.MOREX.r2.2HG0085790",1,FALSE,"Acetyl-CoA carboxylase",NA
+"204","HORVU.MOREX.r2.2HG0085920",1,FALSE,"Glucose-6-phosphate 1-dehydrogenase",NA
+"205","HORVU.MOREX.r2.2HG0085980",3,FALSE,"Ribulose bisphosphate carboxylase small chain",NA
+"206","HORVU.MOREX.r2.2HG0086010",3,FALSE,"Ribulose bisphosphate carboxylase small chain",NA
+"207","HORVU.MOREX.r2.2HG0086020",3,FALSE,"Ribulose bisphosphate carboxylase small chain",NA
+"208","HORVU.MOREX.r2.2HG0086230",2,FALSE,"Aquaporin",NA
+"209","HORVU.MOREX.r2.2HG0086780",3,FALSE,"SNARE-interacting protein KEULE",NA
+"210","HORVU.MOREX.r2.2HG0087620",1,FALSE,"Amine oxidase",NA
+"211","HORVU.MOREX.r2.2HG0088730",4,FALSE,"26S protease regulatory subunit","32H"
+"212","HORVU.MOREX.r2.2HG0089030",3,FALSE,"Isoflavone reductase-like protein",NA
+"213","HORVU.MOREX.r2.2HG0089140",1,FALSE,"Ubiquitin activating enzyme E1",NA
+"214","HORVU.MOREX.r2.2HG0090250",1,FALSE,"Lon protease homolog","32H"
+"215","HORVU.MOREX.r2.2HG0090260",1,FALSE,"Dipeptidyl-peptidase, putative",NA
+"216","HORVU.MOREX.r2.2HG0090510",1,FALSE,"Importin subunit alpha",NA
+"217","HORVU.MOREX.r2.2HG0090820",3,FALSE,"SNF1-related protein kinase regulatory subunit beta-1",NA
+"218","HORVU.MOREX.r2.2HG0090930",1,FALSE,"RINT1-like protein",NA
+"219","HORVU.MOREX.r2.2HG0091120",1,FALSE,"Imidazoleglycerol-phosphate dehydratase",NA
+"220","HORVU.MOREX.r2.2HG0092650",6,FALSE,"Ribosomal protein L19",NA
+"221","HORVU.MOREX.r2.2HG0093260",1,FALSE,"Universal stress protein",NA
+"222","HORVU.MOREX.r2.2HG0093270",1,FALSE,"Universal stress protein",NA
+"223","HORVU.MOREX.r2.2HG0093450",1,FALSE,"Protein arginine methyltransferase",NA
+"224","HORVU.MOREX.r2.2HG0093960",1,FALSE,"Xylose isomerase",NA
+"225","HORVU.MOREX.r2.2HG0094430",2,FALSE,"Nucleolar protein",NA
+"226","HORVU.MOREX.r2.2HG0095350",4,FALSE,"50S ribosomal protein L24",NA
+"227","HORVU.MOREX.r2.2HG0095510",2,FALSE,"Nucleolar family protein",NA
+"228","HORVU.MOREX.r2.2HG0095530",2,FALSE,"Nucleolar family protein",NA
+"229","HORVU.MOREX.r2.2HG0095540",2,FALSE,"Nucleolar family protein",NA
+"230","HORVU.MOREX.r2.2HG0095640",1,FALSE,"WD40 repeat-like protein",NA
+"231","HORVU.MOREX.r2.2HG0096210",1,FALSE,"Glutamate synthase, putative","32H"
+"232","HORVU.MOREX.r2.2HG0096380",1,FALSE,"Thioredoxin reductase",NA
+"233","HORVU.MOREX.r2.2HG0096470",4,FALSE,"transducin family protein / WD-40 repeat family protein","32H"
+"234","HORVU.MOREX.r2.2HG0096630",3,FALSE,"Magnesium-chelatase subunit H",NA
+"235","HORVU.MOREX.r2.2HG0097510",1,FALSE,"Glycosyltransferase",NA
+"236","HORVU.MOREX.r2.2HG0097550",1,FALSE,"Glycosyltransferase",NA
+"237","HORVU.MOREX.r2.2HG0098330",1,FALSE,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",NA
+"238","HORVU.MOREX.r2.2HG0098360",5,FALSE,"Stomatal closure-related actin-binding protein 1",NA
+"239","HORVU.MOREX.r2.2HG0098510",3,FALSE,"DNA/RNA helicase protein",NA
+"240","HORVU.MOREX.r2.2HG0098630",3,FALSE,"Plastid-lipid associated protein PAP / fibrillin family protein",NA
+"241","HORVU.MOREX.r2.2HG0098800",3,FALSE,"Xylulose kinase",NA
+"242","HORVU.MOREX.r2.2HG0100410",1,FALSE,"ATP-dependent RNA helicase family protein",NA
+"243","HORVU.MOREX.r2.2HG0100640",1,FALSE,"Transmembrane emp24 domain-containing protein",NA
+"244","HORVU.MOREX.r2.2HG0100930",1,FALSE,"UDP-glycosyltransferase",NA
+"245","HORVU.MOREX.r2.2HG0101390",3,FALSE,"Purple acid phosphatase",NA
+"246","HORVU.MOREX.r2.2HG0101820",1,FALSE,"Alpha-ketoglutarate-dependent dioxygenase alkB-like protein 2",NA
+"247","HORVU.MOREX.r2.2HG0102950",1,FALSE,"Sucrose synthase",NA
+"248","HORVU.MOREX.r2.2HG0103040",1,FALSE,"3-oxoacyl-[acyl-carrier-protein] synthase",NA
+"249","HORVU.MOREX.r2.2HG0103130",3,FALSE,"Argonaute protein",NA
+"250","HORVU.MOREX.r2.2HG0103970",6,FALSE,"30S ribosomal protein S3",NA
+"251","HORVU.MOREX.r2.2HG0104130",3,FALSE,"Nuclear transcription factor Y subunit",NA
+"252","HORVU.MOREX.r2.2HG0105540",5,FALSE,"RNA binding protein",NA
+"253","HORVU.MOREX.r2.2HG0107810",1,FALSE,"Cytochrome b561 and DOMON domain-containing protein",NA
+"254","HORVU.MOREX.r2.2HG0108340",3,FALSE,"BES1/BZR1 homolog 1",NA
+"255","HORVU.MOREX.r2.2HG0108990",2,FALSE,"Importin-5",NA
+"256","HORVU.MOREX.r2.2HG0109180",1,FALSE,"Zinc finger FYVE domain-containing protein 1",NA
+"257","HORVU.MOREX.r2.2HG0109440",1,FALSE,"Phenylalanine ammonia-lyase","32H"
+"258","HORVU.MOREX.r2.2HG0109550",5,FALSE,"Pre-mRNA-splicing factor 18",NA
+"259","HORVU.MOREX.r2.2HG0110770",1,FALSE,"Peptidyl-prolyl cis-trans isomerase, putative",NA
+"260","HORVU.MOREX.r2.2HG0110800",5,FALSE,"Kinase","32H"
+"261","HORVU.MOREX.r2.2HG0110830",1,FALSE,"Brefeldin A-inhibited guanine nucleotide-exchange protein",NA
+"262","HORVU.MOREX.r2.2HG0110930",1,FALSE,"Secretory carrier-associated membrane protein","32H"
+"263","HORVU.MOREX.r2.2HG0110990",5,FALSE,"Ras-related protein Rab-2",NA
+"264","HORVU.MOREX.r2.2HG0111000",1,FALSE,"Phospholipid-transporting ATPase",NA
+"265","HORVU.MOREX.r2.2HG0111260",1,FALSE,"Chlorophyll a-b binding protein, chloroplastic",NA
+"266","HORVU.MOREX.r2.2HG0111520",1,FALSE,"Sugar transporter, putative",NA
+"267","HORVU.MOREX.r2.2HG0111740",1,FALSE,"Chlorophyll a-b binding protein, chloroplastic",NA
+"268","HORVU.MOREX.r2.2HG0112890",1,FALSE,"V-type proton ATPase subunit H",NA
+"269","HORVU.MOREX.r2.2HG0114820",1,FALSE,"Isocitrate lyase",NA
+"270","HORVU.MOREX.r2.2HG0115600",3,FALSE,"60S ribosomal protein L44",NA
+"271","HORVU.MOREX.r2.2HG0118280",1,FALSE,"WAT1-related protein",NA
+"272","HORVU.MOREX.r2.2HG0118640",1,FALSE,"Zeta-carotene desaturase","32H"
+"273","HORVU.MOREX.r2.2HG0119140",8,FALSE,"Ras-related protein","32H"
+"274","HORVU.MOREX.r2.2HG0120660",3,FALSE,"PHD finger alfin-like protein",NA
+"275","HORVU.MOREX.r2.2HG0122340",3,FALSE,"Peptidylprolyl isomerase",NA
+"276","HORVU.MOREX.r2.2HG0123500",2,FALSE,"Syntaxin",NA
+"277","HORVU.MOREX.r2.2HG0123910",1,FALSE,"Proline--tRNA ligase",NA
+"278","HORVU.MOREX.r2.2HG0124730",6,FALSE,"50S ribosomal protein L6",NA
+"279","HORVU.MOREX.r2.2HG0125080",8,FALSE,"Protein GRIP",NA
+"280","HORVU.MOREX.r2.2HG0125770",3,FALSE,"Peroxisomal (S)-2-hydroxy-acid oxidase",NA
+"281","HORVU.MOREX.r2.2HG0126960",5,FALSE,"Receptor kinase",NA
+"282","HORVU.MOREX.r2.2HG0127360",1,FALSE,"WD40 repeat-like protein","32H"
+"283","HORVU.MOREX.r2.2HG0128750",3,FALSE,"Tetratricopeptide repeat protein 13",NA
+"284","HORVU.MOREX.r2.2HG0128840",2,FALSE,"Protein kinase",NA
+"285","HORVU.MOREX.r2.2HG0129130",1,FALSE,"Aminotransferase","32H"
+"286","HORVU.MOREX.r2.2HG0129220",3,FALSE,"MADS-box transcription factor",NA
+"287","HORVU.MOREX.r2.2HG0129270",2,FALSE,"50S ribosomal protein L13",NA
+"288","HORVU.MOREX.r2.2HG0129900",1,FALSE,"Aspartate carbamoyltransferase",NA
+"289","HORVU.MOREX.r2.2HG0129920",4,FALSE,"26S proteasome non-ATPase regulatory subunit-like protein","32H"
+"290","HORVU.MOREX.r2.2HG0130220",5,FALSE,"BTB-POZ and MATH domain protein","32H"
+"291","HORVU.MOREX.r2.2HG0130400",1,FALSE,"Pyridoxal 5'-phosphate synthase subunit PdxS",NA
+"292","HORVU.MOREX.r2.2HG0131360",3,FALSE,"Chaperone protein dnaJ","32H"
+"293","HORVU.MOREX.r2.2HG0131410",1,FALSE,"MORC family CW-type zinc finger protein 4",NA
+"294","HORVU.MOREX.r2.2HG0132540",1,FALSE,"Phospholipid-transporting ATPase",NA
+"295","HORVU.MOREX.r2.2HG0132810",6,FALSE,"50S ribosomal protein L29",NA
+"296","HORVU.MOREX.r2.2HG0132970",2,FALSE,"Eukaryotic translation initiation factor 3 subunit H",NA
+"297","HORVU.MOREX.r2.2HG0133260",2,FALSE,"Dynamin-like family protein",NA
+"298","HORVU.MOREX.r2.2HG0133330",3,FALSE,"basic helix-loop-helix (bHLH) DNA-binding superfamily protein",NA
+"299","HORVU.MOREX.r2.2HG0133920",3,FALSE,"F-box protein",NA
+"300","HORVU.MOREX.r2.2HG0134130",1,FALSE,"DNA primase large subunit",NA
+"301","HORVU.MOREX.r2.2HG0135590",1,FALSE,"Cytochrome b-c1 complex subunit Rieske, mitochondrial",NA
+"302","HORVU.MOREX.r2.2HG0136060",1,FALSE,"Acetyl-coenzyme A synthetase","32H"
+"303","HORVU.MOREX.r2.2HG0136390",1,FALSE,"Histidinol dehydrogenase","32H"
+"304","HORVU.MOREX.r2.2HG0136670",1,FALSE,"1,4-alpha-glucan-branching enzyme","32H"
+"305","HORVU.MOREX.r2.2HG0136750",1,FALSE,"ATP synthase subunit d, mitochondrial",NA
+"306","HORVU.MOREX.r2.2HG0137270",6,FALSE,"30S ribosomal protein S11",NA
+"307","HORVU.MOREX.r2.2HG0137370",6,FALSE,"60S ribosomal protein L5","32H"
+"308","HORVU.MOREX.r2.2HG0137850",1,FALSE,"Peroxiredoxin",NA
+"309","HORVU.MOREX.r2.2HG0137960",1,FALSE,"U-box domain-containing family protein",NA
+"310","HORVU.MOREX.r2.2HG0138210",5,FALSE,"Exocyst complex component, putative",NA
+"311","HORVU.MOREX.r2.2HG0138950",6,FALSE,"40S ribosomal protein S10",NA
+"312","HORVU.MOREX.r2.2HG0140540",3,FALSE,"Auxin response factor","32H"
+"313","HORVU.MOREX.r2.2HG0140700",1,FALSE,"1,4-alpha-glucan-branching enzyme",NA
+"314","HORVU.MOREX.r2.2HG0140860",1,FALSE,"12-oxophytodienoate reductase-like protein","32H"
+"315","HORVU.MOREX.r2.2HG0141080",4,FALSE,"26S proteasome non-ATPase regulatory subunit-like protein",NA
+"316","HORVU.MOREX.r2.2HG0141140",3,FALSE,"PHD finger alfin-like protein",NA
+"317","HORVU.MOREX.r2.2HG0141160",1,FALSE,"Heat-shock protein, putative",NA
+"318","HORVU.MOREX.r2.2HG0142760",1,FALSE,"Alpha-ketoglutarate-dependent dioxygenase alkB-like protein 2","32H"
+"319","HORVU.MOREX.r2.2HG0143120",3,FALSE,"Pectinesterase",NA
+"320","HORVU.MOREX.r2.2HG0143170",1,FALSE,"Glyceraldehyde-3-phosphate dehydrogenase",NA
+"321","HORVU.MOREX.r2.2HG0143420",3,FALSE,"14-3-3 protein",NA
+"322","HORVU.MOREX.r2.2HG0143550",1,FALSE,"Anthranilate synthase","32H"
+"323","HORVU.MOREX.r2.2HG0143730",5,FALSE,"Chloroplastic group IIA intron splicing facilitator CRS1, chloroplastic",NA
+"324","HORVU.MOREX.r2.2HG0143770",3,FALSE,"Peroxidase",NA
+"325","HORVU.MOREX.r2.2HG0145180",1,FALSE,"3-isopropylmalate dehydrogenase","32H"
+"326","HORVU.MOREX.r2.2HG0145860",1,FALSE,"Programmed cell death protein 4",NA
+"327","HORVU.MOREX.r2.2HG0146120",4,FALSE,"26S proteasome non-atpase regulatory subunit, putative",NA
+"328","HORVU.MOREX.r2.2HG0146440",2,FALSE,"DNA-directed RNA polymerase II, putative",NA
+"329","HORVU.MOREX.r2.2HG0147850",1,FALSE,"Peroxidase",NA
+"330","HORVU.MOREX.r2.2HG0147940",3,FALSE,"Eukaryotic translation initiation factor 4G","32H"
+"331","HORVU.MOREX.r2.2HG0148000",1,FALSE,"Hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyltransferase","32H"
+"332","HORVU.MOREX.r2.2HG0148280",3,FALSE,"Xylulose kinase",NA
+"333","HORVU.MOREX.r2.2HG0148660",1,FALSE,"Polyadenylate-binding protein",NA
+"334","HORVU.MOREX.r2.2HG0149270",1,FALSE,"Proliferating cell nuclear antigen",NA
+"335","HORVU.MOREX.r2.2HG0149440",1,FALSE,"Dicer-like 3",NA
+"336","HORVU.MOREX.r2.2HG0149680",3,FALSE,"Caleosin",NA
+"337","HORVU.MOREX.r2.2HG0149900",3,FALSE,"Caleosin",NA
+"338","HORVU.MOREX.r2.2HG0150150",3,FALSE,"Disease resistance protein (NBS-LRR class) family",NA
+"339","HORVU.MOREX.r2.2HG0150540",1,FALSE,"Phenylalanine ammonia-lyase","32H"
+"340","HORVU.MOREX.r2.2HG0151180",3,FALSE,"Response regulator",NA
+"341","HORVU.MOREX.r2.2HG0152140",5,FALSE,"Thioredoxin",NA
+"342","HORVU.MOREX.r2.2HG0152840",1,FALSE,"Elongation factor G",NA
+"343","HORVU.MOREX.r2.2HG0152930",3,FALSE,"Homeobox leucine zipper protein",NA
+"344","HORVU.MOREX.r2.2HG0152980",1,FALSE,"Cytochrome P450 family protein",NA
+"345","HORVU.MOREX.r2.2HG0153170",3,FALSE,"Aldehyde dehydrogenase",NA
+"346","HORVU.MOREX.r2.2HG0153650",1,FALSE,"WRKY transcription factor",NA
+"347","HORVU.MOREX.r2.2HG0154600",1,FALSE,"4-hydroxy-tetrahydrodipicolinate synthase",NA
+"348","HORVU.MOREX.r2.2HG0156520",3,FALSE,"40S ribosomal protein S25, putative",NA
+"349","HORVU.MOREX.r2.2HG0157120",3,FALSE,"Cysteine and histidine-rich domain-containing protein RAR1",NA
+"350","HORVU.MOREX.r2.2HG0157290",3,FALSE,"Homeobox-leucine zipper family protein",NA
+"351","HORVU.MOREX.r2.2HG0157420",1,FALSE,"Peptide transporter",NA
+"352","HORVU.MOREX.r2.2HG0157790",1,FALSE,"Argonaute family protein",NA
+"353","HORVU.MOREX.r2.2HG0157800",1,FALSE,"Argonaute family protein",NA
+"354","HORVU.MOREX.r2.2HG0158190",3,FALSE,"40S ribosomal protein S25, putative",NA
+"355","HORVU.MOREX.r2.2HG0158350",6,FALSE,"30S ribosomal protein S17",NA
+"356","HORVU.MOREX.r2.2HG0158360",3,FALSE,"Cell differentiation protein rcd1, putative, expressed",NA
+"357","HORVU.MOREX.r2.2HG0158480",4,FALSE,"Coatomer subunit epsilon",NA
+"358","HORVU.MOREX.r2.2HG0158670",4,FALSE,"26S proteasome non-atpase regulatory subunit, putative",NA
+"359","HORVU.MOREX.r2.2HG0158780",1,FALSE,"Oxygen-dependent coproporphyrinogen-III oxidase",NA
+"360","HORVU.MOREX.r2.2HG0159710",6,FALSE,"60S ribosomal protein L7",NA
+"361","HORVU.MOREX.r2.2HG0159750",1,FALSE,"Calcium-transporting ATPase","32H"
+"362","HORVU.MOREX.r2.2HG0159960",1,FALSE,"Villin",NA
+"363","HORVU.MOREX.r2.2HG0160140",1,FALSE,"Kinase-like protein",NA
+"364","HORVU.MOREX.r2.2HG0160160",1,FALSE,"Pectin acetylesterase",NA
+"365","HORVU.MOREX.r2.2HG0160350",5,FALSE,"DAG protein, chloroplastic",NA
+"366","HORVU.MOREX.r2.2HG0161120",6,FALSE,"Ribosomal protein L11",NA
+"367","HORVU.MOREX.r2.2HG0161350",4,FALSE,"26S proteasome regulatory subunit family protein",NA
+"368","HORVU.MOREX.r2.2HG0161930",3,FALSE,"Ethylene-responsive transcription factor",NA
+"369","HORVU.MOREX.r2.2HG0162190",1,FALSE,"Receptor-like kinase",NA
+"370","HORVU.MOREX.r2.2HG0162350",1,FALSE,"Imidazoleglycerol-phosphate dehydratase",NA
+"371","HORVU.MOREX.r2.2HG0162580",1,FALSE,"D-2-hydroxyglutarate dehydrogenase",NA
+"372","HORVU.MOREX.r2.2HG0162660",1,FALSE,"Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain-containing protein",NA
+"373","HORVU.MOREX.r2.2HG0163370",5,FALSE,"Chaperone protein DNAj, putative","32H"
+"374","HORVU.MOREX.r2.2HG0164620",5,FALSE,"AP-5 complex subunit zeta-1",NA
+"375","HORVU.MOREX.r2.2HG0165450",1,FALSE,"Kinesin-like protein",NA
+"376","HORVU.MOREX.r2.2HG0166680",4,FALSE,"Adenosylhomocysteinase","32H"
+"377","HORVU.MOREX.r2.2HG0166780",1,FALSE,"Cytochrome P450 family protein","32H"
+"378","HORVU.MOREX.r2.2HG0166800",3,FALSE,"Protein transport SEC13-like protein","32H"
+"379","HORVU.MOREX.r2.2HG0167210",1,FALSE,"V-type proton ATPase subunit a",NA
+"380","HORVU.MOREX.r2.2HG0167320",4,FALSE,"Adenosylhomocysteinase","32H"
+"381","HORVU.MOREX.r2.2HG0167640",4,FALSE,"Eukaryotic translation initiation factor 3 subunit F",NA
+"382","HORVU.MOREX.r2.2HG0167710",3,FALSE,"Molybdopterin biosynthesis protein CNX1",NA
+"383","HORVU.MOREX.r2.2HG0167720",1,FALSE,"DNA topoisomerase 1",NA
+"384","HORVU.MOREX.r2.2HG0168290",1,FALSE,"C2 domain-containing protein",NA
+"385","HORVU.MOREX.r2.2HG0168500",3,FALSE,"Plasma membrane ATPase",NA
+"386","HORVU.MOREX.r2.2HG0168870",3,FALSE,"COP9 signalosome complex subunit 5",NA
+"387","HORVU.MOREX.r2.2HG0169770",1,FALSE,"D-3-phosphoglycerate dehydrogenase","32H"
+"388","HORVU.MOREX.r2.2HG0170010",3,FALSE,"GRAS transcription factor",NA
+"389","HORVU.MOREX.r2.2HG0170020",1,FALSE,"4-hydroxy-tetrahydrodipicolinate synthase",NA
+"390","HORVU.MOREX.r2.2HG0170530",8,FALSE,"RING/U-box superfamily protein",NA
+"391","HORVU.MOREX.r2.2HG0170680",1,FALSE,"Glycerol kinase",NA
+"392","HORVU.MOREX.r2.2HG0172010",3,FALSE,"transcription factor-like protein",NA
+"393","HORVU.MOREX.r2.2HG0172390",2,FALSE,"N-alpha-acetyltransferase",NA
+"394","HORVU.MOREX.r2.2HG0173140",1,FALSE,"Superoxide dismutase",NA
+"395","HORVU.MOREX.r2.2HG0173880",3,FALSE,"Mevalonate kinase",NA
+"396","HORVU.MOREX.r2.2HG0174570",1,FALSE,"Pyruvate kinase","32H"
+"397","HORVU.MOREX.r2.2HG0174910",1,FALSE,"Plastid division protein CDP1, chloroplastic",NA
+"398","HORVU.MOREX.r2.2HG0175470",3,FALSE,"Response regulator","32H"
+"399","HORVU.MOREX.r2.2HG0177360",3,FALSE,"Heat shock 70 kDa protein",NA
+"400","HORVU.MOREX.r2.2HG0177590",1,FALSE,"ATP-binding ABC transporter",NA
+"401","HORVU.MOREX.r2.2HG0177640",1,FALSE,"U-box domain-containing family protein",NA
+"402","HORVU.MOREX.r2.2HG0178450",3,FALSE,"Glutathione S-transferase",NA
+"403","HORVU.MOREX.r2.2HG0179350",1,FALSE,"CoA ligase",NA
+"404","HORVU.MOREX.r2.2HG0180170",1,FALSE,"1-deoxy-D-xylulose 5-phosphate synthase",NA
+"405","HORVU.MOREX.r2.2HG0180380",2,FALSE,"Importin beta 1",NA
+"406","HORVU.MOREX.r2.2HG0180540",2,FALSE,"DNA-directed RNA polymerase subunit",NA
+"407","HORVU.MOREX.r2.2HG0180650",3,FALSE,"Germin-like protein",NA
+"408","HORVU.MOREX.r2.3HG0181430",1,FALSE,"Subtilisin-like protease",NA
+"409","HORVU.MOREX.r2.3HG0181790",3,FALSE,"Sucrose-phosphate synthase",NA
+"410","HORVU.MOREX.r2.3HG0182620",6,FALSE,"50S ribosomal protein L6",NA
+"411","HORVU.MOREX.r2.3HG0182640",3,FALSE,"O-acyltransferase WSD1",NA
+"412","HORVU.MOREX.r2.3HG0182650",6,FALSE,"50S ribosomal protein L6",NA
+"413","HORVU.MOREX.r2.3HG0183470",3,FALSE,"O-acyltransferase WSD1",NA
+"414","HORVU.MOREX.r2.3HG0185770",1,FALSE,"Phenylalanine ammonia-lyase",NA
+"415","HORVU.MOREX.r2.3HG0186250",2,FALSE,"Eukaryotic translation initiation factor 3 subunit A",NA
+"416","HORVU.MOREX.r2.3HG0186340",1,FALSE,"Alkyl transferase",NA
+"417","HORVU.MOREX.r2.3HG0189300",1,FALSE,"Ras family protein",NA
+"418","HORVU.MOREX.r2.3HG0190430",1,FALSE,"Actin cross-linking protein, putative",NA
+"419","HORVU.MOREX.r2.3HG0190840",2,FALSE,"DNA/RNA helicase protein","32H"
+"420","HORVU.MOREX.r2.3HG0191210",6,FALSE,"WD40 repeat-like protein",NA
+"421","HORVU.MOREX.r2.3HG0191450",1,FALSE,"Cytochrome P450",NA
+"422","HORVU.MOREX.r2.3HG0191720",3,FALSE,"Chaperone protein DnaJ",NA
+"423","HORVU.MOREX.r2.3HG0191770",1,FALSE,"Fatty acid oxidation complex subunit alpha","32H"
+"424","HORVU.MOREX.r2.3HG0192030",3,TRUE,"E3 Ubiquitin ligase family protein",NA
+"425","HORVU.MOREX.r2.3HG0192470",1,FALSE,"DNA repair protein-like protein",NA
+"426","HORVU.MOREX.r2.3HG0192970",6,FALSE,"30S ribosomal protein S7",NA
+"427","HORVU.MOREX.r2.3HG0193600",1,FALSE,"Aspartate--tRNA ligase",NA
+"428","HORVU.MOREX.r2.3HG0194060",1,FALSE,"Raffinose synthase family protein","32H"
+"429","HORVU.MOREX.r2.3HG0194640",1,FALSE,"Pentatricopeptide repeat-containing protein",NA
+"430","HORVU.MOREX.r2.3HG0195060",1,FALSE,"Receptor kinase",NA
+"431","HORVU.MOREX.r2.3HG0195150",1,FALSE,"ATP-dependent RNA helicase-like protein",NA
+"432","HORVU.MOREX.r2.3HG0195580",1,FALSE,"Pyruvate decarboxylase",NA
+"433","HORVU.MOREX.r2.3HG0195850",3,FALSE,"Ectonucleotide pyrophosphatase/phosphodiesterase, putative","32H"
+"434","HORVU.MOREX.r2.3HG0196050",1,FALSE,"Protein IQ-DOMAIN 1",NA
+"435","HORVU.MOREX.r2.3HG0196060",2,FALSE,"Myb-like transcription factor family protein",NA
+"436","HORVU.MOREX.r2.3HG0196390",1,FALSE,"Mitochondrial-processing peptidase subunit alpha","32H"
+"437","HORVU.MOREX.r2.3HG0196440",1,FALSE,"ATP-dependent 6-phosphofructokinase",NA
+"438","HORVU.MOREX.r2.3HG0196550",3,FALSE,"Auxin-responsive protein",NA
+"439","HORVU.MOREX.r2.3HG0196610",4,FALSE,"Malic enzyme","32H"
+"440","HORVU.MOREX.r2.3HG0197100",2,FALSE,"Glutamine--tRNA ligase",NA
+"441","HORVU.MOREX.r2.3HG0197840",3,FALSE,"COP9 signalosome complex subunit 5",NA
+"442","HORVU.MOREX.r2.3HG0199200",1,FALSE,"Aminotransferase","32H"
+"443","HORVU.MOREX.r2.3HG0199680",1,FALSE,"Glycosyltransferase","32H"
+"444","HORVU.MOREX.r2.3HG0201840",3,FALSE,"Kinase family protein",NA
+"445","HORVU.MOREX.r2.3HG0201870",6,FALSE,"50S ribosomal protein L5",NA
+"446","HORVU.MOREX.r2.3HG0202100",1,FALSE,"Subtilisin-like protease",NA
+"447","HORVU.MOREX.r2.3HG0202130",1,FALSE,"Subtilisin-like protease","32H"
+"448","HORVU.MOREX.r2.3HG0202320",3,FALSE,"Agamous MADS-box transcription factor",NA
+"449","HORVU.MOREX.r2.3HG0202450",5,FALSE,"Protein kinase",NA
+"450","HORVU.MOREX.r2.3HG0202840",6,FALSE,"60S ribosomal protein L27",NA
+"451","HORVU.MOREX.r2.3HG0203270",5,FALSE,"TPR repeat-containing thioredoxin TTL1",NA
+"452","HORVU.MOREX.r2.3HG0203420",3,FALSE,"Protein transport SEC13-like protein",NA
+"453","HORVU.MOREX.r2.3HG0203860",3,FALSE,"Transcription factor, TCP",NA
+"454","HORVU.MOREX.r2.3HG0204770",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"455","HORVU.MOREX.r2.3HG0206150",1,FALSE,"Peptidyl-prolyl cis-trans isomerase",NA
+"456","HORVU.MOREX.r2.3HG0206280",1,FALSE,"Receptor-like kinase",NA
+"457","HORVU.MOREX.r2.3HG0206600",2,FALSE,"Eukaryotic translation initiation factor 3 subunit L",NA
+"458","HORVU.MOREX.r2.3HG0207440",2,FALSE,"Exportin-2",NA
+"459","HORVU.MOREX.r2.3HG0207880",1,FALSE,"Phosphate translocator",NA
+"460","HORVU.MOREX.r2.3HG0208690",1,FALSE,"Kinesin-like protein",NA
+"461","HORVU.MOREX.r2.3HG0209060",3,FALSE,"WRKY transcription factor","32H"
+"462","HORVU.MOREX.r2.3HG0209210",1,FALSE,"Isocitrate dehydrogenase [NADP]",NA
+"463","HORVU.MOREX.r2.3HG0209630",3,FALSE,"Protein kinase",NA
+"464","HORVU.MOREX.r2.3HG0209860",3,FALSE,"Importin subunit alpha",NA
+"465","HORVU.MOREX.r2.3HG0210350",3,FALSE,"Topless-related 1-like protein",NA
+"466","HORVU.MOREX.r2.3HG0210540",2,FALSE,"Syntaxin related protein",NA
+"467","HORVU.MOREX.r2.3HG0210920",1,FALSE,"Kinase-like protein",NA
+"468","HORVU.MOREX.r2.3HG0212800",2,FALSE,"Glutamate--tRNA ligase",NA
+"469","HORVU.MOREX.r2.3HG0212880",1,FALSE,"Ubiquitin-conjugating enzyme E2",NA
+"470","HORVU.MOREX.r2.3HG0213550",1,FALSE,"RING/U-box superfamily protein",NA
+"471","HORVU.MOREX.r2.3HG0213560",1,FALSE,"Pyruvate kinase","32H"
+"472","HORVU.MOREX.r2.3HG0214260",1,FALSE,"WAT1-related protein",NA
+"473","HORVU.MOREX.r2.3HG0214280",4,FALSE,"Coatomer subunit beta","32H"
+"474","HORVU.MOREX.r2.3HG0214390",1,FALSE,"ATP-citrate synthase, putative","32H"
+"475","HORVU.MOREX.r2.3HG0214490",4,FALSE,"Coatomer subunit beta","32H"
+"476","HORVU.MOREX.r2.3HG0214610",1,FALSE,"Pentatricopeptide repeat-containing protein",NA
+"477","HORVU.MOREX.r2.3HG0214830",1,FALSE,"Ribosomal protein S4",NA
+"478","HORVU.MOREX.r2.3HG0215440",3,FALSE,"Kinase family protein","32H"
+"479","HORVU.MOREX.r2.3HG0218480",1,FALSE,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",NA
+"480","HORVU.MOREX.r2.3HG0218610",1,FALSE,"Ubiquitin fusion degradation protein 1-like protein",NA
+"481","HORVU.MOREX.r2.3HG0219750",3,FALSE,"V-type proton ATPase subunit F",NA
+"482","HORVU.MOREX.r2.3HG0220570",1,FALSE,"Vacuolar-processing enzyme","32H"
+"483","HORVU.MOREX.r2.3HG0220580",1,FALSE,"IAA-amino acid hydrolase ILR1, putative",NA
+"484","HORVU.MOREX.r2.3HG0220610",1,FALSE,"DUF538 family protein (Protein of unknown function, DUF538)",NA
+"485","HORVU.MOREX.r2.3HG0220940",1,FALSE,"Ubiquitin carboxyl-terminal hydrolase","32H"
+"486","HORVU.MOREX.r2.3HG0221240",1,FALSE,"Carbamoyl-phosphate synthase large chain","32H"
+"487","HORVU.MOREX.r2.3HG0221800",1,FALSE,"Myosin",NA
+"488","HORVU.MOREX.r2.3HG0221890",3,FALSE,"Protein phosphatase 2C",NA
+"489","HORVU.MOREX.r2.3HG0222010",3,FALSE,"Beta-galactosidase",NA
+"490","HORVU.MOREX.r2.3HG0222240",5,FALSE,"Kinase family protein",NA
+"491","HORVU.MOREX.r2.3HG0222280",1,FALSE,"V-type proton ATPase subunit d","32H"
+"492","HORVU.MOREX.r2.3HG0222430",1,FALSE,"DNA damage-binding protein 1",NA
+"493","HORVU.MOREX.r2.3HG0222920",5,FALSE,"zinc finger FYVE domain protein",NA
+"494","HORVU.MOREX.r2.3HG0223610",1,FALSE,"Aspartyl protease family protein",NA
+"495","HORVU.MOREX.r2.3HG0223660",1,FALSE,"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B",NA
+"496","HORVU.MOREX.r2.3HG0224180",3,FALSE,"Ubiquitin-related family protein",NA
+"497","HORVU.MOREX.r2.3HG0225160",5,FALSE,"TPR repeat-containing thioredoxin TTL1",NA
+"498","HORVU.MOREX.r2.3HG0225410",2,FALSE,"N-alpha-acetyltransferase 16, NatA auxiliary subunit",NA
+"499","HORVU.MOREX.r2.3HG0226460",1,FALSE,"Uroporphyrinogen decarboxylase",NA
+"500","HORVU.MOREX.r2.3HG0226490",3,FALSE,"Calcium-dependent protein kinase","32H"
+"501","HORVU.MOREX.r2.3HG0226630",3,TRUE,"SGT1",NA
+"502","HORVU.MOREX.r2.3HG0226690",3,FALSE,"Heat shock transcription factor",NA
+"503","HORVU.MOREX.r2.3HG0226720",1,FALSE,"Beta-adaptin-like protein",NA
+"504","HORVU.MOREX.r2.3HG0227140",1,FALSE,"Aspartic proteinase",NA
+"505","HORVU.MOREX.r2.3HG0227500",3,FALSE,"MYB transcription factor",NA
+"506","HORVU.MOREX.r2.3HG0227930",1,FALSE,"Isoprenylcysteine alpha-carbonyl methylesterase ICME",NA
+"507","HORVU.MOREX.r2.3HG0228210",3,FALSE,"Elongation factor",NA
+"508","HORVU.MOREX.r2.3HG0229140",1,FALSE,"Isocitrate dehydrogenase [NADP]","32H"
+"509","HORVU.MOREX.r2.3HG0229290",1,FALSE,"Long-Chain Acyl-CoA Synthetase",NA
+"510","HORVU.MOREX.r2.3HG0229440",3,FALSE,"Ubiquitin conjugating enzyme E2","32H"
+"511","HORVU.MOREX.r2.3HG0229470",1,FALSE,"Potassium channel",NA
+"512","HORVU.MOREX.r2.3HG0229480",4,FALSE,"V-type proton ATPase subunit E","32H"
+"513","HORVU.MOREX.r2.3HG0230030",3,FALSE,"50S ribosomal protein L7/L12",NA
+"514","HORVU.MOREX.r2.3HG0230390",5,FALSE,"Mitogen-activated protein kinase",NA
+"515","HORVU.MOREX.r2.3HG0230660",2,FALSE,"Vacuolar protein sorting-associated protein 16",NA
+"516","HORVU.MOREX.r2.3HG0230780",1,FALSE,"Hydroxyacylglutathione hydrolase",NA
+"517","HORVU.MOREX.r2.3HG0230880",1,FALSE,"Splicing factor U2af small subunit A",NA
+"518","HORVU.MOREX.r2.3HG0231260",5,FALSE,"Serine/threonine-protein kinase",NA
+"519","HORVU.MOREX.r2.3HG0231480",1,FALSE,"Ubiquitin-conjugating enzyme E2",NA
+"520","HORVU.MOREX.r2.3HG0232160",6,FALSE,"60S ribosomal protein L37a",NA
+"521","HORVU.MOREX.r2.3HG0232520",1,FALSE,"Glutamate synthase, putative","32H"
+"522","HORVU.MOREX.r2.3HG0232580",3,FALSE,"Splicing factor 3A subunit 3",NA
+"523","HORVU.MOREX.r2.3HG0232920",3,FALSE,"Guanine nucleotide-binding protein beta subunit-like protein",NA
+"524","HORVU.MOREX.r2.3HG0233180",1,FALSE,"Alpha/beta-Hydrolases superfamily protein",NA
+"525","HORVU.MOREX.r2.3HG0233390",2,FALSE,"Serine/threonine-protein phosphatase",NA
+"526","HORVU.MOREX.r2.3HG0233730",1,FALSE,"Threonine synthase",NA
+"527","HORVU.MOREX.r2.3HG0234350",3,FALSE,"Myb transcription factor",NA
+"528","HORVU.MOREX.r2.3HG0234750",1,FALSE,"Sec14p-like phosphatidylinositol transfer family protein",NA
+"529","HORVU.MOREX.r2.3HG0234900",1,FALSE,"AP-1 complex subunit mu-1",NA
+"530","HORVU.MOREX.r2.3HG0235390",2,FALSE,"Vesicle transport V-SNARE protein","32H"
+"531","HORVU.MOREX.r2.3HG0235600",5,FALSE,"Protein IQ-DOMAIN 1",NA
+"532","HORVU.MOREX.r2.3HG0235620",3,FALSE,"Myb transcription factor",NA
+"533","HORVU.MOREX.r2.3HG0235760",4,FALSE,"ATP synthase subunit beta",NA
+"534","HORVU.MOREX.r2.3HG0235810",3,FALSE,"Glycine dehydrogenase decarboxylating protein",NA
+"535","HORVU.MOREX.r2.3HG0236180",3,FALSE,"Protein phosphatase 2C",NA
+"536","HORVU.MOREX.r2.3HG0236250",3,FALSE,"WRKY transcription factor",NA
+"537","HORVU.MOREX.r2.3HG0236630",1,FALSE,"Receptor kinase",NA
+"538","HORVU.MOREX.r2.3HG0236920",1,FALSE,"NADH-quinone oxidoreductase subunit B",NA
+"539","HORVU.MOREX.r2.3HG0236950",1,FALSE,"Serine acetyltransferase",NA
+"540","HORVU.MOREX.r2.3HG0237100",1,FALSE,"Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase, putative",NA
+"541","HORVU.MOREX.r2.3HG0237190",6,FALSE,"40S ribosomal protein S24",NA
+"542","HORVU.MOREX.r2.3HG0237390",3,FALSE,"Pleiotropic drug resistance ABC transporter",NA
+"543","HORVU.MOREX.r2.3HG0237800",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"544","HORVU.MOREX.r2.3HG0238770",1,FALSE,"ATP-dependent 6-phosphofructokinase","32H"
+"545","HORVU.MOREX.r2.3HG0238900",3,FALSE,"Auxin-responsive protein",NA
+"546","HORVU.MOREX.r2.3HG0239480",5,FALSE,"Protein kinase",NA
+"547","HORVU.MOREX.r2.3HG0239800",1,FALSE,"50S ribosomal protein L13",NA
+"548","HORVU.MOREX.r2.3HG0239830",1,FALSE,"Trehalose-6-phosphate synthase 6",NA
+"549","HORVU.MOREX.r2.3HG0239900",1,FALSE,"Cellulose synthase",NA
+"550","HORVU.MOREX.r2.3HG0240950",1,FALSE,"Phosphoenolpyruvate carboxylase",NA
+"551","HORVU.MOREX.r2.3HG0241140",1,FALSE,"Aspartate aminotransferase",NA
+"552","HORVU.MOREX.r2.3HG0241180",3,FALSE,"Chaperone DnaK",NA
+"553","HORVU.MOREX.r2.3HG0241490",7,FALSE,"Ribosomal protein S24/S35, mitochondrial",NA
+"554","HORVU.MOREX.r2.3HG0241500",1,FALSE,"Clustered mitochondria protein",NA
+"555","HORVU.MOREX.r2.3HG0241540",1,FALSE,"Clustered mitochondria protein",NA
+"556","HORVU.MOREX.r2.3HG0242960",6,FALSE,"60S ribosomal protein L27",NA
+"557","HORVU.MOREX.r2.3HG0244180",1,FALSE,"Secretory carrier-associated membrane protein","32H"
+"558","HORVU.MOREX.r2.3HG0244390",2,FALSE,"Eukaryotic translation initiation factor 3 subunit L",NA
+"559","HORVU.MOREX.r2.3HG0244970",1,FALSE,"Pectinesterase",NA
+"560","HORVU.MOREX.r2.3HG0245260",1,FALSE,"Subtilisin-like protease",NA
+"561","HORVU.MOREX.r2.3HG0246050",5,FALSE,"Stomatal closure-related actin-binding protein 1",NA
+"562","HORVU.MOREX.r2.3HG0246060",4,FALSE,"DNA-directed RNA polymerase II",NA
+"563","HORVU.MOREX.r2.3HG0246070",1,FALSE,"Tubulin beta chain",NA
+"564","HORVU.MOREX.r2.3HG0246170",1,FALSE,"Dihydropyrimidinase",NA
+"565","HORVU.MOREX.r2.3HG0246350",5,FALSE,"U3 small nucleolar RNA-associated protein 11",NA
+"566","HORVU.MOREX.r2.3HG0247040",6,FALSE,"60S ribosomal protein L24","32H"
+"567","HORVU.MOREX.r2.3HG0247440",1,FALSE,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",NA
+"568","HORVU.MOREX.r2.3HG0247690",3,FALSE,"Ubiquitin-conjugating enzyme E2",NA
+"569","HORVU.MOREX.r2.3HG0247750",1,FALSE,"Cytochrome P450 family cinnamate 4-hydroxylase","32H"
+"570","HORVU.MOREX.r2.3HG0248340",1,FALSE,"4,5-dioxygenase-like protein",NA
+"571","HORVU.MOREX.r2.3HG0248370",1,FALSE,"4,5-dioxygenase-like protein",NA
+"572","HORVU.MOREX.r2.3HG0248820",3,FALSE,"Phosphatidylinositol transfer protein",NA
+"573","HORVU.MOREX.r2.3HG0248950",5,FALSE,"DUF668 family protein",NA
+"574","HORVU.MOREX.r2.3HG0249720",1,FALSE,"Polypyrimidine tract-binding protein-like protein",NA
+"575","HORVU.MOREX.r2.3HG0250080",1,FALSE,"U-box domain-containing family protein",NA
+"576","HORVU.MOREX.r2.3HG0250830",6,FALSE,"Ribosomal protein",NA
+"577","HORVU.MOREX.r2.3HG0250850",3,FALSE,"transcription factor-like protein",NA
+"578","HORVU.MOREX.r2.3HG0250900",3,FALSE,"BZIP transcription factor",NA
+"579","HORVU.MOREX.r2.3HG0251090",1,FALSE,"Alkyl transferase",NA
+"580","HORVU.MOREX.r2.3HG0251180",1,FALSE,"Cell division control protein 6-like protein",NA
+"581","HORVU.MOREX.r2.3HG0251360",3,FALSE,"Wuschel-related homeobox protein",NA
+"582","HORVU.MOREX.r2.3HG0251430",1,FALSE,"HXXXD-type acyl-transferase family protein",NA
+"583","HORVU.MOREX.r2.3HG0251560",1,FALSE,"Fructose-1,6-bisphosphatase class 1",NA
+"584","HORVU.MOREX.r2.3HG0251720",1,FALSE,"Alpha-1,4 glucan phosphorylase",NA
+"585","HORVU.MOREX.r2.3HG0251880",2,FALSE,"Adenine nucleotide alpha hydrolases-like superfamily protein",NA
+"586","HORVU.MOREX.r2.3HG0252010",1,FALSE,"Mannose-1-phosphate guanyltransferase 1",NA
+"587","HORVU.MOREX.r2.3HG0252080",3,FALSE,"Protein phosphatase 2C",NA
+"588","HORVU.MOREX.r2.3HG0252650",3,FALSE,"70 kDa heat shock protein",NA
+"589","HORVU.MOREX.r2.3HG0252690",1,FALSE,"Pathogenesis-related thaumatin-like protein",NA
+"590","HORVU.MOREX.r2.3HG0252710",1,FALSE,"ubiquitin-conjugating enzyme E2","32H"
+"591","HORVU.MOREX.r2.3HG0252910",6,FALSE,"30S ribosomal protein S8, putative",NA
+"592","HORVU.MOREX.r2.3HG0252940",1,FALSE,"ABC transporter ATP-binding protein ARB1",NA
+"593","HORVU.MOREX.r2.3HG0253300",6,FALSE,"30S ribosomal protein S12",NA
+"594","HORVU.MOREX.r2.3HG0253370",1,FALSE,"Coatomer subunit delta",NA
+"595","HORVU.MOREX.r2.3HG0254210",1,FALSE,"TOM1-like protein 2",NA
+"596","HORVU.MOREX.r2.3HG0254340",3,FALSE,"Fructose-bisphosphate aldolase","32H"
+"597","HORVU.MOREX.r2.3HG0254350",3,FALSE,"Fructose-bisphosphate aldolase","32H"
+"598","HORVU.MOREX.r2.3HG0254660",3,FALSE,"Heat shock transcription factor",NA
+"599","HORVU.MOREX.r2.3HG0255010",1,FALSE,"Kinase family protein",NA
+"600","HORVU.MOREX.r2.3HG0255090",1,FALSE,"RNA-binding protein, putative",NA
+"601","HORVU.MOREX.r2.3HG0255350",1,FALSE,"Beta-glucosidase",NA
+"602","HORVU.MOREX.r2.3HG0255360",7,TRUE,"Pentatricopeptide repeat protein",NA
+"603","HORVU.MOREX.r2.3HG0255450",1,FALSE,"IQ domain-containing protein",NA
+"604","HORVU.MOREX.r2.3HG0256210",3,FALSE,"PHD finger alfin-like protein",NA
+"605","HORVU.MOREX.r2.3HG0256920",1,FALSE,"Acyl-[acyl-carrier-protein] desaturase",NA
+"606","HORVU.MOREX.r2.3HG0257150",1,FALSE,"Cysteine proteinase",NA
+"607","HORVU.MOREX.r2.3HG0257820",1,FALSE,"Aldehyde dehydrogenase, putative",NA
+"608","HORVU.MOREX.r2.3HG0257850",3,FALSE,"Transcription factor viviparous 1",NA
+"609","HORVU.MOREX.r2.3HG0258430",1,FALSE,"AP-4 complex subunit epsilon",NA
+"610","HORVU.MOREX.r2.3HG0258450",1,FALSE,"Selenium-binding protein",NA
+"611","HORVU.MOREX.r2.3HG0258670",3,FALSE,"Small ubiquitin-related modifier","32H"
+"612","HORVU.MOREX.r2.3HG0259240",2,TRUE,"Dynamin, putative",NA
+"613","HORVU.MOREX.r2.3HG0259470",3,FALSE,"MYND type zinc finger protein",NA
+"614","HORVU.MOREX.r2.3HG0260050",4,FALSE,"50S ribosomal protein L27",NA
+"615","HORVU.MOREX.r2.3HG0260450",1,FALSE,"Ubiquitin-conjugating enzyme E2, putative",NA
+"616","HORVU.MOREX.r2.3HG0260940",3,FALSE,"Transcription factor Inducer of CBF expression 1",NA
+"617","HORVU.MOREX.r2.3HG0261040",7,FALSE,"Aminopeptidase","32H"
+"618","HORVU.MOREX.r2.3HG0261450",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"619","HORVU.MOREX.r2.3HG0261470",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"620","HORVU.MOREX.r2.3HG0261560",1,FALSE,"Acetolactate synthase",NA
+"621","HORVU.MOREX.r2.3HG0262210",1,FALSE,"Homeobox protein LUMINIDEPENDENS",NA
+"622","HORVU.MOREX.r2.3HG0262240",1,FALSE,"Methyl esterase",NA
+"623","HORVU.MOREX.r2.3HG0262300",1,FALSE,"Methyl esterase 1, putative","32H"
+"624","HORVU.MOREX.r2.3HG0262310",1,FALSE,"Methyl esterase 1, putative","32H"
+"625","HORVU.MOREX.r2.3HG0262320",1,FALSE,"Methyl esterase 1, putative",NA
+"626","HORVU.MOREX.r2.3HG0262430",1,FALSE,"Nuclear transcription factor Y subunit B",NA
+"627","HORVU.MOREX.r2.3HG0262550",1,FALSE,"Spermatogenesis-associated protein 20",NA
+"628","HORVU.MOREX.r2.3HG0262650",1,FALSE,"Bifunctional purine biosynthesis protein purH",NA
+"629","HORVU.MOREX.r2.3HG0262770",1,FALSE,"DNA (Cytosine-5-)-methyltransferase",NA
+"630","HORVU.MOREX.r2.3HG0262790",1,FALSE,"DNA (Cytosine-5-)-methyltransferase",NA
+"631","HORVU.MOREX.r2.3HG0263370",1,FALSE,"UDP-glycosyltransferase",NA
+"632","HORVU.MOREX.r2.3HG0264810",1,FALSE,"Sugar transporter, putative",NA
+"633","HORVU.MOREX.r2.3HG0264820",1,FALSE,"Sugar transporter, putative",NA
+"634","HORVU.MOREX.r2.3HG0265310",1,FALSE,"Gamma-secretase subunit APH1-like",NA
+"635","HORVU.MOREX.r2.3HG0266510",4,FALSE,"Acetyl-CoA carboxylase",NA
+"636","HORVU.MOREX.r2.3HG0267720",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"637","HORVU.MOREX.r2.3HG0267730",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"638","HORVU.MOREX.r2.3HG0268090",1,FALSE,"Orotate phosphoribosyltransferase, putative",NA
+"639","HORVU.MOREX.r2.3HG0268150",1,FALSE,"Orotate phosphoribosyltransferase, Orotidine-5'-phosphate decarboxylase",NA
+"640","HORVU.MOREX.r2.3HG0268220",1,FALSE,"Lycopene beta/epsilon cyclase",NA
+"641","HORVU.MOREX.r2.3HG0268390",1,FALSE,"Beta-galactosidase",NA
+"642","HORVU.MOREX.r2.3HG0269280",3,FALSE,"NBS-LRR-like resistance protein",NA
+"643","HORVU.MOREX.r2.3HG0269360",1,FALSE,"Haloacid dehalogenase-like hydrolase",NA
+"644","HORVU.MOREX.r2.3HG0269380",1,FALSE,"Protein RETICULATA, chloroplastic",NA
+"645","HORVU.MOREX.r2.3HG0269620",3,FALSE,"PLATZ transcription factor",NA
+"646","HORVU.MOREX.r2.3HG0269970",1,FALSE,"RNA binding protein",NA
+"647","HORVU.MOREX.r2.3HG0270280",1,FALSE,"SWAP (Suppressor-of-White-APricot)/surp domain-containing protein / ubiquitin family protein",NA
+"648","HORVU.MOREX.r2.3HG0270820",1,FALSE,"Progesterone 5-beta-reductase","32H"
+"649","HORVU.MOREX.r2.3HG0270850",1,FALSE,"UDP-glycosyltransferase",NA
+"650","HORVU.MOREX.r2.3HG0270890",1,FALSE,"Progesterone 5-beta-reductase","32H"
+"651","HORVU.MOREX.r2.3HG0270960",4,FALSE,"Coatomer subunit beta",NA
+"652","HORVU.MOREX.r2.3HG0271040",3,FALSE,"Ubiquitin-fold modifier 1",NA
+"653","HORVU.MOREX.r2.3HG0271070",6,FALSE,"40S ribosomal protein S10",NA
+"654","HORVU.MOREX.r2.3HG0271620",2,FALSE,"Vesicle-associated membrane protein",NA
+"655","HORVU.MOREX.r2.3HG0272760",3,FALSE,"Bifunctional polymyxin resistance arnA protein",NA
+"656","HORVU.MOREX.r2.3HG0272790",1,FALSE,"Villin",NA
+"657","HORVU.MOREX.r2.3HG0273090",5,FALSE,"Cyclin family protein",NA
+"658","HORVU.MOREX.r2.3HG0273830",1,FALSE,"Cytochrome P450",NA
+"659","HORVU.MOREX.r2.3HG0274120",1,FALSE,"Acetyl-coenzyme A synthetase",NA
+"660","HORVU.MOREX.r2.3HG0274970",1,FALSE,"O-methyltransferase",NA
+"661","HORVU.MOREX.r2.3HG0275280",2,FALSE,"SNARE-interacting protein KEULE",NA
+"662","HORVU.MOREX.r2.4HG0275890",1,FALSE,"ABC transporter ATP-binding protein ARB1",NA
+"663","HORVU.MOREX.r2.4HG0276750",1,FALSE,"O-methyltransferase",NA
+"664","HORVU.MOREX.r2.4HG0277350",1,FALSE,"Methyltransferase",NA
+"665","HORVU.MOREX.r2.4HG0277550",3,FALSE,"Potassium channel","32H"
+"666","HORVU.MOREX.r2.4HG0277590",1,FALSE,"5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase","32H"
+"667","HORVU.MOREX.r2.4HG0278220",3,FALSE,"Guanine nucleotide-binding protein subunit beta",NA
+"668","HORVU.MOREX.r2.4HG0278420",3,FALSE,"Homeobox protein knotted-1-like 1",NA
+"669","HORVU.MOREX.r2.4HG0278860",3,FALSE,"Ubiquitin-conjugating enzyme E2",NA
+"670","HORVU.MOREX.r2.4HG0278940",3,FALSE,"Argonaute protein",NA
+"671","HORVU.MOREX.r2.4HG0279220",3,FALSE,"5'-AMP-activated protein kinase subunit beta-1",NA
+"672","HORVU.MOREX.r2.4HG0279340",1,FALSE,"Plasma membrane ATPase",NA
+"673","HORVU.MOREX.r2.4HG0279680",2,FALSE,"Lysine--tRNA ligase",NA
+"674","HORVU.MOREX.r2.4HG0279770",4,FALSE,"Proteasome subunit beta type","32H"
+"675","HORVU.MOREX.r2.4HG0280050",4,FALSE,"Importin-5","32H"
+"676","HORVU.MOREX.r2.4HG0280240",1,FALSE,"Phosphatidylinositol-4-phosphate 5-kinase family protein","32H"
+"677","HORVU.MOREX.r2.4HG0280690",3,FALSE,"Glutamyl-tRNA(Gln) amidotransferase subunit A",NA
+"678","HORVU.MOREX.r2.4HG0280770",1,FALSE,"Phytanoyl-CoA dioxygenase",NA
+"679","HORVU.MOREX.r2.4HG0281090",3,FALSE,"14-3-3 protein","32H"
+"680","HORVU.MOREX.r2.4HG0281100",8,FALSE,"Protein CASP",NA
+"681","HORVU.MOREX.r2.4HG0281250",1,FALSE,"Phosphoglucosamine mutase",NA
+"682","HORVU.MOREX.r2.4HG0281440",1,FALSE,"Dynamin","32H"
+"683","HORVU.MOREX.r2.4HG0281460",1,FALSE,"NADH-ubiquinone oxidoreductase subunit",NA
+"684","HORVU.MOREX.r2.4HG0281760",1,FALSE,"UDP-glucose 6-dehydrogenase",NA
+"685","HORVU.MOREX.r2.4HG0281810",3,FALSE,"Zinc finger homeodomain protein",NA
+"686","HORVU.MOREX.r2.4HG0282090",2,FALSE,"Translational activator GCN1",NA
+"687","HORVU.MOREX.r2.4HG0282540",5,FALSE,"Receptor kinase","32H"
+"688","HORVU.MOREX.r2.4HG0282580",1,FALSE,"Pre-mRNA polyadenylation factor Fip1",NA
+"689","HORVU.MOREX.r2.4HG0282910",3,FALSE,"homeobox-1",NA
+"690","HORVU.MOREX.r2.4HG0283660",1,FALSE,"Endoplasmic reticulum oxidoreductin-1","32H"
+"691","HORVU.MOREX.r2.4HG0283930",2,FALSE,"Eukaryotic translation initiation factor 3 subunit G",NA
+"692","HORVU.MOREX.r2.4HG0284240",2,FALSE,"CBS domain containing protein, expressed","32H"
+"693","HORVU.MOREX.r2.4HG0284490",1,FALSE,"Serine hydroxymethyltransferase",NA
+"694","HORVU.MOREX.r2.4HG0284540",5,FALSE,"WRKY transcription factor",NA
+"695","HORVU.MOREX.r2.4HG0284720",1,FALSE,"UDP-glycosyltransferase",NA
+"696","HORVU.MOREX.r2.4HG0285910",3,FALSE,"Cyclin",NA
+"697","HORVU.MOREX.r2.4HG0286960",1,FALSE,"Acetolactate synthase small subunit",NA
+"698","HORVU.MOREX.r2.4HG0287210",3,FALSE,"PHD finger alfin-like protein","32H"
+"699","HORVU.MOREX.r2.4HG0287460",1,FALSE,"Chlorophyll a/b binding protein domain-containing protein","32H"
+"700","HORVU.MOREX.r2.4HG0287550",1,FALSE,"Non-lysosomal glucosylceramidase",NA
+"701","HORVU.MOREX.r2.4HG0287800",3,FALSE,"Auxin F-box protein 1",NA
+"702","HORVU.MOREX.r2.4HG0288160",6,FALSE,"Ribosomal protein","32H"
+"703","HORVU.MOREX.r2.4HG0288310",4,FALSE,"Methylthioribose-1-phosphate isomerase",NA
+"704","HORVU.MOREX.r2.4HG0288510",2,FALSE,"Protein transport protein Sec24-like family","32H"
+"705","HORVU.MOREX.r2.4HG0289270",1,FALSE,"Uridine kinase",NA
+"706","HORVU.MOREX.r2.4HG0289970",3,FALSE,"SWI/SNF complex subunit SWI3C",NA
+"707","HORVU.MOREX.r2.4HG0290240",5,FALSE,"DUF668 family protein",NA
+"708","HORVU.MOREX.r2.4HG0290630",1,FALSE,"Cyclic nucleotide-gated channel",NA
+"709","HORVU.MOREX.r2.4HG0290700",1,FALSE,"ATP-dependent RNA helicase family protein",NA
+"710","HORVU.MOREX.r2.4HG0290970",3,FALSE,"Transcription factor, putative",NA
+"711","HORVU.MOREX.r2.4HG0291020",3,FALSE,"Neutral/alkaline invertase",NA
+"712","HORVU.MOREX.r2.4HG0291220",3,FALSE,"Fructose-bisphosphate aldolase",NA
+"713","HORVU.MOREX.r2.4HG0291510",6,FALSE,"60S ribosomal protein L27",NA
+"714","HORVU.MOREX.r2.4HG0292690",1,FALSE,"UDP-glucose 6-dehydrogenase","32H"
+"715","HORVU.MOREX.r2.4HG0294400",1,FALSE,"Cysteine desulfurase, putative, expressed",NA
+"716","HORVU.MOREX.r2.4HG0294890",6,FALSE,"30S ribosomal protein S9","32H"
+"717","HORVU.MOREX.r2.4HG0294910",6,FALSE,"30S ribosomal protein S9",NA
+"718","HORVU.MOREX.r2.4HG0295580",5,FALSE,"Protein CHUP1, chloroplastic",NA
+"719","HORVU.MOREX.r2.4HG0295820",3,FALSE,"Ferritin","32H"
+"720","HORVU.MOREX.r2.4HG0295830",1,FALSE,"Ubiquitin activating enzyme E1",NA
+"721","HORVU.MOREX.r2.4HG0295930",1,FALSE,"Clathrin heavy chain","32H"
+"722","HORVU.MOREX.r2.4HG0296890",1,FALSE,"Long-Chain Acyl-CoA Synthetase","32H"
+"723","HORVU.MOREX.r2.4HG0297060",3,FALSE,"Phosphatidylinositol-4-phosphate 5-kinase 4, putative",NA
+"724","HORVU.MOREX.r2.4HG0298010",1,FALSE,"Pyridoxal 5'-phosphate synthase subunit PdxS",NA
+"725","HORVU.MOREX.r2.4HG0298180",1,FALSE,"Ribulose bisphosphate carboxylase/oxygenase activase","32H"
+"726","HORVU.MOREX.r2.4HG0298440",2,FALSE,"Alanine--tRNA ligase",NA
+"727","HORVU.MOREX.r2.4HG0299430",1,FALSE,"Succinate--CoA ligase [ADP-forming] subunit beta","32H"
+"728","HORVU.MOREX.r2.4HG0299490",3,FALSE,"Xyloglucan endotransglucosylase/hydrolase",NA
+"729","HORVU.MOREX.r2.4HG0301490",3,FALSE,"14-3-3-like protein",NA
+"730","HORVU.MOREX.r2.4HG0307100",1,FALSE,"ABC transporter (ATP-binding protein), putative",NA
+"731","HORVU.MOREX.r2.4HG0307240",1,FALSE,"30S ribosomal protein S5",NA
+"732","HORVU.MOREX.r2.4HG0307580",1,FALSE,"Splicing factor u2af large subunit, putative",NA
+"733","HORVU.MOREX.r2.4HG0308470",2,FALSE,"Eukaryotic translation initiation factor 3 subunit I",NA
+"734","HORVU.MOREX.r2.4HG0308830",4,FALSE,"50S ribosomal protein L6, putative, expressed",NA
+"735","HORVU.MOREX.r2.4HG0309810",1,FALSE,"3-oxoacyl-[acyl-carrier-protein] synthase",NA
+"736","HORVU.MOREX.r2.4HG0309820",2,FALSE,"Protein transport protein SEC23","32H"
+"737","HORVU.MOREX.r2.4HG0309920",2,FALSE,"Nucleolar protein",NA
+"738","HORVU.MOREX.r2.4HG0310860",1,FALSE,"Paladin","32H"
+"739","HORVU.MOREX.r2.4HG0311100",3,FALSE,"14-3-3 protein",NA
+"740","HORVU.MOREX.r2.4HG0312080",1,FALSE,"Beta-adaptin-like protein",NA
+"741","HORVU.MOREX.r2.4HG0314460",1,FALSE,"Fumarate hydratase, class II",NA
+"742","HORVU.MOREX.r2.4HG0314500",6,FALSE,"Ribosomal protein L19",NA
+"743","HORVU.MOREX.r2.4HG0315180",2,FALSE,"Eukaryotic translation initiation factor 2 beta subunit, putative, expressed","32H"
+"744","HORVU.MOREX.r2.4HG0315210",1,FALSE,"Receptor-like kinase","32H"
+"745","HORVU.MOREX.r2.4HG0315350",1,FALSE,"Hydroxyacylglutathione hydrolase, putative, expressed","32H"
+"746","HORVU.MOREX.r2.4HG0315630",2,FALSE,"Myb-like transcription factor family protein",NA
+"747","HORVU.MOREX.r2.4HG0315770",3,FALSE,"Dedicator of cytokinesis",NA
+"748","HORVU.MOREX.r2.4HG0316020",1,FALSE,"RING/U-box superfamily protein","32H"
+"749","HORVU.MOREX.r2.4HG0316280",3,FALSE,"Histidine triad nucleotide binding protein",NA
+"750","HORVU.MOREX.r2.4HG0316950",1,FALSE,"30S ribosomal protein S1",NA
+"751","HORVU.MOREX.r2.4HG0317680",3,FALSE,"Phytochrome",NA
+"752","HORVU.MOREX.r2.4HG0317830",1,FALSE,"ATP-dependent Clp protease proteolytic subunit",NA
+"753","HORVU.MOREX.r2.4HG0317840",1,FALSE,"Ubiquitin-conjugating enzyme, E2","32H"
+"754","HORVU.MOREX.r2.4HG0318050",1,FALSE,"Dipeptidyl-peptidase, putative",NA
+"755","HORVU.MOREX.r2.4HG0319150",4,FALSE,"26S protease regulatory subunit",NA
+"756","HORVU.MOREX.r2.4HG0319240",1,FALSE,"Malonyl CoA-acyl carrier protein transacylase containing protein, expressed",NA
+"757","HORVU.MOREX.r2.4HG0319250",2,FALSE,"40S ribosomal protein S7",NA
+"758","HORVU.MOREX.r2.4HG0319540",3,FALSE,"MYB domain transcription factor",NA
+"759","HORVU.MOREX.r2.4HG0319700",1,FALSE,"Ubiquitin activating enzyme E1",NA
+"760","HORVU.MOREX.r2.4HG0319720",1,FALSE,"Ethylene-overproduction protein 1",NA
+"761","HORVU.MOREX.r2.4HG0320350",3,FALSE,"Non-specific serine/threonine protein kinase",NA
+"762","HORVU.MOREX.r2.4HG0320500",2,FALSE,"Elongation factor 1-alpha","32H"
+"763","HORVU.MOREX.r2.4HG0320920",3,FALSE,"Mitogen-activated protein kinase","32H"
+"764","HORVU.MOREX.r2.4HG0320930",1,FALSE,"Ascorbate peroxidase",NA
+"765","HORVU.MOREX.r2.4HG0322360",3,FALSE,"Udp-glucose 4,6-dehydratase",NA
+"766","HORVU.MOREX.r2.4HG0322370",1,FALSE,"UDP-glucuronate decarboxylase protein 6","32H"
+"767","HORVU.MOREX.r2.4HG0322410",1,FALSE,"70 kDa heat shock protein",NA
+"768","HORVU.MOREX.r2.4HG0322690",3,FALSE,"70 kDa heat shock protein",NA
+"769","HORVU.MOREX.r2.4HG0323620",3,FALSE,"Protein phosphatase 2C",NA
+"770","HORVU.MOREX.r2.4HG0323760",3,FALSE,"LIM domain-containing protein 1",NA
+"771","HORVU.MOREX.r2.4HG0323820",1,FALSE,"Fructose-1,6-bisphosphatase class 1",NA
+"772","HORVU.MOREX.r2.4HG0324290",1,FALSE,"Calcium-binding EF hand family protein, putative, expressed",NA
+"773","HORVU.MOREX.r2.4HG0324790",6,FALSE,"Importin-4",NA
+"774","HORVU.MOREX.r2.4HG0325280",1,FALSE,"Phosphoenolpyruvate carboxykinase (ATP)-like protein",NA
+"775","HORVU.MOREX.r2.4HG0325410",3,FALSE,"Topless-related protein 1",NA
+"776","HORVU.MOREX.r2.4HG0325590",1,FALSE,"Phosphomevalonate kinase",NA
+"777","HORVU.MOREX.r2.4HG0325800",1,FALSE,"V-type proton ATPase subunit a",NA
+"778","HORVU.MOREX.r2.4HG0326090",3,FALSE,"LOB domain protein",NA
+"779","HORVU.MOREX.r2.4HG0326110",2,FALSE,"Brefeldin A-inhibited guanine nucleotide-exchange protein",NA
+"780","HORVU.MOREX.r2.4HG0326510",1,FALSE,"Auxin influx transporter",NA
+"781","HORVU.MOREX.r2.4HG0326610",3,FALSE,"Myb transcription factor",NA
+"782","HORVU.MOREX.r2.4HG0326700",4,FALSE,"26S proteasome non-ATPase regulatory subunit 4",NA
+"783","HORVU.MOREX.r2.4HG0327110",5,FALSE,"Protein OBERON 3",NA
+"784","HORVU.MOREX.r2.4HG0328620",5,FALSE,"Kinase, putative","32H"
+"785","HORVU.MOREX.r2.4HG0328790",1,FALSE,"Trehalose-6-phosphate synthase","32H"
+"786","HORVU.MOREX.r2.4HG0329060",4,FALSE,"Glutamine synthetase",NA
+"787","HORVU.MOREX.r2.4HG0329510",1,FALSE,"Superoxide dismutase [Cu-Zn]","32H"
+"788","HORVU.MOREX.r2.4HG0329640",1,FALSE,"Alpha-glucosidase like protein","32H"
+"789","HORVU.MOREX.r2.4HG0329740",5,FALSE,"Microtubule-associated protein 70-4",NA
+"790","HORVU.MOREX.r2.4HG0329770",2,FALSE,"Methionine--tRNA ligase",NA
+"791","HORVU.MOREX.r2.4HG0329790",3,FALSE,"MADS box transcription factor",NA
+"792","HORVU.MOREX.r2.4HG0330120",2,FALSE,"ATP-dependent RNA helicase",NA
+"793","HORVU.MOREX.r2.4HG0330320",1,FALSE,"Mitochondrial-processing peptidase beta subunit",NA
+"794","HORVU.MOREX.r2.4HG0330680",4,FALSE,"T-complex protein 1 subunit beta",NA
+"795","HORVU.MOREX.r2.4HG0331060",1,FALSE,"Mannose-1-phosphate guanyltransferase",NA
+"796","HORVU.MOREX.r2.4HG0331120",3,FALSE,"Cyclin",NA
+"797","HORVU.MOREX.r2.4HG0331210",2,FALSE,"Protein kinase",NA
+"798","HORVU.MOREX.r2.4HG0331480",1,FALSE,"Flap endonuclease 1",NA
+"799","HORVU.MOREX.r2.4HG0331780",1,FALSE,"Outer mitochondrial membrane protein porin","32H"
+"800","HORVU.MOREX.r2.4HG0331900",5,FALSE,"Peptidyl-prolyl cis-trans isomerase-like protein",NA
+"801","HORVU.MOREX.r2.4HG0331930",1,FALSE,"ADP-ribosylation factor, putative","32H"
+"802","HORVU.MOREX.r2.4HG0331970",6,FALSE,"40S ribosomal protein S3a",NA
+"803","HORVU.MOREX.r2.4HG0332580",1,FALSE,"Serine acetyltransferase 3",NA
+"804","HORVU.MOREX.r2.4HG0332910",4,FALSE,"26S proteasome regulatory subunit","32H"
+"805","HORVU.MOREX.r2.4HG0332970",4,FALSE,"60 kDa chaperonin",NA
+"806","HORVU.MOREX.r2.4HG0334150",1,FALSE,"Phosphoserine aminotransferase","32H"
+"807","HORVU.MOREX.r2.4HG0334770",3,FALSE,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase",NA
+"808","HORVU.MOREX.r2.4HG0336080",1,FALSE,"Aminotransferase like protein",NA
+"809","HORVU.MOREX.r2.4HG0336330",6,FALSE,"60S ribosomal protein L4",NA
+"810","HORVU.MOREX.r2.4HG0336360",3,FALSE,"Dehydration responsive element binding transcription factor",NA
+"811","HORVU.MOREX.r2.4HG0336480",3,FALSE,"Nuclear transcription factor Y subunit","32H"
+"812","HORVU.MOREX.r2.4HG0337290",4,FALSE,"Proteasome subunit alpha type","32H"
+"813","HORVU.MOREX.r2.4HG0337450",6,FALSE,"50S ribosomal protein L2",NA
+"814","HORVU.MOREX.r2.4HG0337610",2,FALSE,"40S ribosomal protein SA","32H"
+"815","HORVU.MOREX.r2.4HG0337620",2,FALSE,"Eukaryotic translation initiation factor 3 subunit K",NA
+"816","HORVU.MOREX.r2.4HG0337790",3,FALSE,"Plasma membrane ATPase",NA
+"817","HORVU.MOREX.r2.4HG0338270",3,FALSE,"Transport inhibitor response 1-like protein",NA
+"818","HORVU.MOREX.r2.4HG0338430",3,FALSE,"Basic helix-loop-helix transcription factor",NA
+"819","HORVU.MOREX.r2.4HG0338880",1,FALSE,"Cysteine--tRNA ligase",NA
+"820","HORVU.MOREX.r2.4HG0338920",4,FALSE,"60 kDa chaperonin","32H"
+"821","HORVU.MOREX.r2.4HG0339130",1,FALSE,"Receptor-like protein kinase",NA
+"822","HORVU.MOREX.r2.4HG0339290",1,FALSE,"Aquaporin",NA
+"823","HORVU.MOREX.r2.4HG0339770",1,FALSE,"Ubiquitin-conjugating enzyme E2","32H"
+"824","HORVU.MOREX.r2.4HG0340100",3,FALSE,"Transport inhibitor response 1-like protein","32H"
+"825","HORVU.MOREX.r2.4HG0340370",1,FALSE,"Aconitate hydratase","32H"
+"826","HORVU.MOREX.r2.4HG0341140",1,FALSE,"Protein kinase family protein, putative, expressed",NA
+"827","HORVU.MOREX.r2.4HG0341280",1,FALSE,"Expansin-like protein",NA
+"828","HORVU.MOREX.r2.4HG0341400",1,FALSE,"Expansin-like protein",NA
+"829","HORVU.MOREX.r2.4HG0341410",1,FALSE,"Metal tolerance protein",NA
+"830","HORVU.MOREX.r2.4HG0341470",3,FALSE,"Catalase",NA
+"831","HORVU.MOREX.r2.4HG0341540",1,FALSE,"Plant regulator RWP-RK family protein, putative","32H"
+"832","HORVU.MOREX.r2.4HG0341830",1,FALSE,"CoA ligase",NA
+"833","HORVU.MOREX.r2.4HG0342150",3,FALSE,"Calcium dependent protein kinase",NA
+"834","HORVU.MOREX.r2.4HG0342350",5,FALSE,"Non-specific serine/threonine protein kinase",NA
+"835","HORVU.MOREX.r2.4HG0342490",1,FALSE,"Anthranilate phosphoribosyltransferase","32H"
+"836","HORVU.MOREX.r2.4HG0343460",6,FALSE,"60S ribosomal protein L21",NA
+"837","HORVU.MOREX.r2.4HG0343670",3,FALSE,"E2 ubiquitin-conjugating-like enzyme",NA
+"838","HORVU.MOREX.r2.4HG0343720",1,FALSE,"50S ribosomal protein L11",NA
+"839","HORVU.MOREX.r2.4HG0343940",3,FALSE,"Alcohol dehydrogenase-like protein",NA
+"840","HORVU.MOREX.r2.4HG0344150",3,FALSE,"NAC domain protein,",NA
+"841","HORVU.MOREX.r2.4HG0344580",4,FALSE,"Protein kinase",NA
+"842","HORVU.MOREX.r2.4HG0344760",4,FALSE,"26S proteasome non-ATPase regulatory subunit-like protein",NA
+"843","HORVU.MOREX.r2.4HG0344850",2,FALSE,"COP9 signalosome complex subunit 1",NA
+"844","HORVU.MOREX.r2.4HG0345510",3,FALSE,"Protein kinase",NA
+"845","HORVU.MOREX.r2.4HG0346290",3,FALSE,"Scarecrow transcription factor family protein",NA
+"846","HORVU.MOREX.r2.4HG0346420",1,FALSE,"Flavin-containing monooxygenase",NA
+"847","HORVU.MOREX.r2.4HG0346440",5,FALSE,"C2H2-like zinc finger protein",NA
+"848","HORVU.MOREX.r2.4HG0346680",1,FALSE,"CCR4-NOT transcription complex subunit 1",NA
+"849","HORVU.MOREX.r2.4HG0347420",2,FALSE,"Alanine--tRNA ligase",NA
+"850","HORVU.MOREX.r2.4HG0347430",1,FALSE,"Peptide transporter, putative",NA
+"851","HORVU.MOREX.r2.4HG0347510",1,FALSE,"Xyloglucan alpha-1,6-xylosyltransferase",NA
+"852","HORVU.MOREX.r2.4HG0347860",1,FALSE,"AP-2 complex subunit alpha-2","32H"
+"853","HORVU.MOREX.r2.4HG0347970",3,FALSE,"Chaperone DnaK",NA
+"854","HORVU.MOREX.r2.4HG0348360",3,FALSE,"Heat shock transcription factor",NA
+"855","HORVU.MOREX.r2.4HG0348510",6,FALSE,"60S ribosomal protein L27",NA
+"856","HORVU.MOREX.r2.4HG0348600",3,FALSE,"Heat shock transcription factor",NA
+"857","HORVU.MOREX.r2.4HG0348890",3,FALSE,"ATP-dependent chaperone ClpB","32H"
+"858","HORVU.MOREX.r2.4HG0348920",1,FALSE,"Alkyl transferase",NA
+"859","HORVU.MOREX.r2.4HG0349080",3,FALSE,"Calcineurin B-like protein",NA
+"860","HORVU.MOREX.r2.5HG0349390",3,FALSE,"AGAMOUS MADS box factor transcription factor",NA
+"861","HORVU.MOREX.r2.5HG0349480",3,FALSE,"Agamous MADS-box transcription factor",NA
+"862","HORVU.MOREX.r2.5HG0349490",1,FALSE,"Sugar transporter, putative",NA
+"863","HORVU.MOREX.r2.5HG0349630",3,FALSE,"Sucrose-phosphatase",NA
+"864","HORVU.MOREX.r2.5HG0349810",1,FALSE,"Plasma membrane ATPase",NA
+"865","HORVU.MOREX.r2.5HG0350790",1,FALSE,"Enolase",NA
+"866","HORVU.MOREX.r2.5HG0350880",1,FALSE,"RNA-binding protein",NA
+"867","HORVU.MOREX.r2.5HG0352570",1,FALSE,"Cysteine synthase",NA
+"868","HORVU.MOREX.r2.5HG0353500",3,FALSE,"Udp-glucose 4,6-dehydratase",NA
+"869","HORVU.MOREX.r2.5HG0354200",1,FALSE,"Serine/threonine-protein phosphatase",NA
+"870","HORVU.MOREX.r2.5HG0354630",6,FALSE,"30S ribosomal protein S10",NA
+"871","HORVU.MOREX.r2.5HG0355940",1,FALSE,"Guanosine nucleotide diphosphate dissociation inhibitor","32H"
+"872","HORVU.MOREX.r2.5HG0356310",1,FALSE,"BTB/POZ domain-containing protein",NA
+"873","HORVU.MOREX.r2.5HG0356360",3,FALSE,"Glutamate receptor",NA
+"874","HORVU.MOREX.r2.5HG0357370",5,FALSE,"Stomatal closure-related actin-binding protein 1",NA
+"875","HORVU.MOREX.r2.5HG0359840",3,FALSE,"Calmodulin","32H"
+"876","HORVU.MOREX.r2.5HG0359860",3,FALSE,"Calmodulin",NA
+"877","HORVU.MOREX.r2.5HG0360110",3,FALSE,"Auxin-responsive protein","32H"
+"878","HORVU.MOREX.r2.5HG0360220",5,FALSE,"E3 ubiquitin protein ligase DRIP2",NA
+"879","HORVU.MOREX.r2.5HG0360260",3,FALSE,"Heat shock 70 kDa protein",NA
+"880","HORVU.MOREX.r2.5HG0360410",5,FALSE,"WRKY transcription factor",NA
+"881","HORVU.MOREX.r2.5HG0360580",2,FALSE,"Small nuclear ribonucleoprotein Sm D3",NA
+"882","HORVU.MOREX.r2.5HG0361360",3,FALSE,"Protein DA1-related 1",NA
+"883","HORVU.MOREX.r2.5HG0363210",1,FALSE,"Cation/H(+) antiporter",NA
+"884","HORVU.MOREX.r2.5HG0363250",2,FALSE,"Methionine--tRNA ligase",NA
+"885","HORVU.MOREX.r2.5HG0363800",5,FALSE,"Phosphatase 2C family protein",NA
+"886","HORVU.MOREX.r2.5HG0363830",2,FALSE,"Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha",NA
+"887","HORVU.MOREX.r2.5HG0365720",3,FALSE,"Myb transcription factor",NA
+"888","HORVU.MOREX.r2.5HG0365730",2,FALSE,"Nuclear pore complex protein NUP93A",NA
+"889","HORVU.MOREX.r2.5HG0366000",1,FALSE,"Importin subunit beta-1",NA
+"890","HORVU.MOREX.r2.5HG0366070",1,FALSE,"Importin subunit beta-1",NA
+"891","HORVU.MOREX.r2.5HG0366520",1,FALSE,"Succinate--CoA ligase [ADP-forming] subunit beta","32H"
+"892","HORVU.MOREX.r2.5HG0367100",2,FALSE,"Nuclear export mediator factor Nemf",NA
+"893","HORVU.MOREX.r2.5HG0368460",3,FALSE,"Nucleoside diphosphate kinase",NA
+"894","HORVU.MOREX.r2.5HG0368480",1,FALSE,"ATP-dependent 6-phosphofructokinase",NA
+"895","HORVU.MOREX.r2.5HG0369110",2,FALSE,"Golgin candidate 6",NA
+"896","HORVU.MOREX.r2.5HG0369790",1,FALSE,"Phenylalanine--tRNA ligase alpha subunit","32H"
+"897","HORVU.MOREX.r2.5HG0369800",2,FALSE,"Syntaxin","32H"
+"898","HORVU.MOREX.r2.5HG0370270",1,FALSE,"Glutathione synthetase",NA
+"899","HORVU.MOREX.r2.5HG0370820",2,FALSE,"Phenylalanine--tRNA ligase beta subunit",NA
+"900","HORVU.MOREX.r2.5HG0370990",5,TRUE,"Protein OBERON 2-like protein",NA
+"901","HORVU.MOREX.r2.5HG0371220",1,FALSE,"LIM domain protein",NA
+"902","HORVU.MOREX.r2.5HG0371580",2,FALSE,"Eukaryotic translation initiation factor 5A",NA
+"903","HORVU.MOREX.r2.5HG0372410",1,FALSE,"weak chloroplast movement under blue light protein (DUF827)",NA
+"904","HORVU.MOREX.r2.5HG0373900",2,FALSE,"Calcium-dependent protein kinase",NA
+"905","HORVU.MOREX.r2.5HG0374130",3,FALSE,"Fructose-bisphosphate aldolase",NA
+"906","HORVU.MOREX.r2.5HG0374360",5,FALSE,"SET domain-containing protein","32H"
+"907","HORVU.MOREX.r2.5HG0375570",2,FALSE,"3'(2'),5'-bisphosphate nucleotidase 1",NA
+"908","HORVU.MOREX.r2.5HG0376280",3,FALSE,"Transcription factor, putative",NA
+"909","HORVU.MOREX.r2.5HG0376550",1,FALSE,"Trehalose-6-phosphate synthase, putative",NA
+"910","HORVU.MOREX.r2.5HG0377070",3,FALSE,"SWI/SNF complex subunit SWI3C",NA
+"911","HORVU.MOREX.r2.5HG0379890",1,FALSE,"Long-Chain Acyl-CoA Synthetase",NA
+"912","HORVU.MOREX.r2.5HG0380130",1,FALSE,"Stem-specific protein TSJT1",NA
+"913","HORVU.MOREX.r2.5HG0380250",1,FALSE,"Pyruvate kinase","32H"
+"914","HORVU.MOREX.r2.5HG0381340",3,FALSE,"Phosphatidylinositol-4-phosphate 5-kinase 4, putative",NA
+"915","HORVU.MOREX.r2.5HG0381380",1,FALSE,"L-galactono-1,4-lactone dehydrogenase",NA
+"916","HORVU.MOREX.r2.5HG0381520",3,FALSE,"2-isopropylmalate synthase",NA
+"917","HORVU.MOREX.r2.5HG0382390",4,FALSE,"Proteasome-associated protein ECM29-like protein","32H"
+"918","HORVU.MOREX.r2.5HG0382610",3,FALSE,"Metacaspase",NA
+"919","HORVU.MOREX.r2.5HG0383630",6,FALSE,"30S ribosomal protein S9",NA
+"920","HORVU.MOREX.r2.5HG0384550",1,FALSE,"Long-Chain Acyl-CoA Synthetase",NA
+"921","HORVU.MOREX.r2.5HG0385350",3,FALSE,"Ubiquitin activating enzyme E1","32H"
+"922","HORVU.MOREX.r2.5HG0385600",1,FALSE,"Clathrin heavy chain","32H"
+"923","HORVU.MOREX.r2.5HG0386390",1,FALSE,"Carbamoyl-phosphate synthase small chain","32H"
+"924","HORVU.MOREX.r2.5HG0386490",3,FALSE,"Alcohol dehydrogenase 2",NA
+"925","HORVU.MOREX.r2.5HG0387260",2,FALSE,"Aspartate--tRNA ligase",NA
+"926","HORVU.MOREX.r2.5HG0387320",2,FALSE,"DNA-directed RNA polymerase family protein",NA
+"927","HORVU.MOREX.r2.5HG0387650",1,FALSE,"Polyadenylate-binding protein",NA
+"928","HORVU.MOREX.r2.5HG0387890",2,FALSE,"Tetratricopeptide repeat protein-like",NA
+"929","HORVU.MOREX.r2.5HG0388650",1,FALSE,"Auxin transport protein BIG",NA
+"930","HORVU.MOREX.r2.5HG0388970",1,FALSE,"Serine/threonine protein phosphatase 2a regulatory subunit A, putative",NA
+"931","HORVU.MOREX.r2.5HG0389150",3,FALSE,"3-ketoacyl-CoA thiolase",NA
+"932","HORVU.MOREX.r2.5HG0389330",6,FALSE,"40S ribosomal protein S19",NA
+"933","HORVU.MOREX.r2.5HG0389360",6,FALSE,"50S ribosomal protein L22",NA
+"934","HORVU.MOREX.r2.5HG0389420",1,FALSE,"GBF-interacting protein 1, putative isoform 1",NA
+"935","HORVU.MOREX.r2.5HG0389920",1,FALSE,"Enoyl reductase",NA
+"936","HORVU.MOREX.r2.5HG0390410",1,FALSE,"Sodium/hydrogen exchanger",NA
+"937","HORVU.MOREX.r2.5HG0390510",1,FALSE,"Receptor kinase",NA
+"938","HORVU.MOREX.r2.5HG0390580",3,FALSE,"Aspartokinase-homoserine dehydrogenase",NA
+"939","HORVU.MOREX.r2.5HG0390660",6,FALSE,"60S ribosomal protein L27",NA
+"940","HORVU.MOREX.r2.5HG0390690",1,FALSE,"Sugar transporter, putative",NA
+"941","HORVU.MOREX.r2.5HG0390890",1,FALSE,"Potassium channel",NA
+"942","HORVU.MOREX.r2.5HG0391620",1,FALSE,"Aquaporin",NA
+"943","HORVU.MOREX.r2.5HG0391760",1,FALSE,"Phosphoenolpyruvate carboxylase","32H"
+"944","HORVU.MOREX.r2.5HG0392780",1,FALSE,"Cysteine desulfurase IscS",NA
+"945","HORVU.MOREX.r2.5HG0393640",5,FALSE,"Kinase family protein",NA
+"946","HORVU.MOREX.r2.5HG0394640",2,FALSE,"Pre-mRNA-processing-splicing factor 8",NA
+"947","HORVU.MOREX.r2.5HG0394830",1,FALSE,"Eukaryotic translation initiation factor 3 subunit I",NA
+"948","HORVU.MOREX.r2.5HG0395160",1,FALSE,"MND1-interacting protein 1",NA
+"949","HORVU.MOREX.r2.5HG0395310",1,FALSE,"Protein kinase-like",NA
+"950","HORVU.MOREX.r2.5HG0395650",1,FALSE,"Potassium transporter",NA
+"951","HORVU.MOREX.r2.5HG0396560",1,FALSE,"Transcription factor jumonji (jmjC) domain-containing protein","32H"
+"952","HORVU.MOREX.r2.5HG0396700",5,FALSE,"Myb family transcription factor-like",NA
+"953","HORVU.MOREX.r2.5HG0396750",1,FALSE,"Trehalose-6-phosphate synthase",NA
+"954","HORVU.MOREX.r2.5HG0396910",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"955","HORVU.MOREX.r2.5HG0397220",4,FALSE,"Uv excision repair protein rad23, putative","32H"
+"956","HORVU.MOREX.r2.5HG0397720",1,FALSE,"Secretory carrier-associated membrane protein","32H"
+"957","HORVU.MOREX.r2.5HG0397940",7,FALSE,"Ribosome production factor 2-like protein",NA
+"958","HORVU.MOREX.r2.5HG0398040",2,FALSE,"Phenylalanine--tRNA ligase alpha subunit",NA
+"959","HORVU.MOREX.r2.5HG0398100",1,FALSE,"Alcohol dehydrogenase, putative","32H"
+"960","HORVU.MOREX.r2.5HG0398150",1,FALSE,"Aldehyde dehydrogenase","32H"
+"961","HORVU.MOREX.r2.5HG0398330",1,FALSE,"10 kDa chaperonin",NA
+"962","HORVU.MOREX.r2.5HG0399300",3,FALSE,"Glutamate receptor",NA
+"963","HORVU.MOREX.r2.5HG0399310",3,FALSE,"Glutamate receptor",NA
+"964","HORVU.MOREX.r2.5HG0399360",3,FALSE,"Glutamate receptor",NA
+"965","HORVU.MOREX.r2.5HG0399370",3,FALSE,"Glutamate receptor",NA
+"966","HORVU.MOREX.r2.5HG0399400",3,FALSE,"Glutamate receptor",NA
+"967","HORVU.MOREX.r2.5HG0399410",3,FALSE,"Glutamate receptor",NA
+"968","HORVU.MOREX.r2.5HG0399420",3,FALSE,"Glutamate receptor",NA
+"969","HORVU.MOREX.r2.5HG0399730",2,FALSE,"Eukaryotic translation initiation factor 3 subunit C",NA
+"970","HORVU.MOREX.r2.5HG0400740",3,FALSE,"WRKY transcription factor",NA
+"971","HORVU.MOREX.r2.5HG0400880",1,FALSE,"ATP-dependent 6-phosphofructokinase",NA
+"972","HORVU.MOREX.r2.5HG0400930",3,FALSE,"Zinc-finger homeodomain 1","32H"
+"973","HORVU.MOREX.r2.5HG0401170",6,FALSE,"30S ribosomal protein S12",NA
+"974","HORVU.MOREX.r2.5HG0401250",1,FALSE,"Superoxide dismutase [Cu-Zn]",NA
+"975","HORVU.MOREX.r2.5HG0401270",3,FALSE,"Vacuolar-processing enzyme",NA
+"976","HORVU.MOREX.r2.5HG0401340",1,FALSE,"Chlorophyll a-b binding protein, chloroplastic",NA
+"977","HORVU.MOREX.r2.5HG0401370",3,FALSE,"Chloroplast lysine N-methyltransferase",NA
+"978","HORVU.MOREX.r2.5HG0401830",1,FALSE,"Superoxide dismutase [Cu-Zn]",NA
+"979","HORVU.MOREX.r2.5HG0401960",3,FALSE,"Protein kinase",NA
+"980","HORVU.MOREX.r2.5HG0402460",3,FALSE,"Nuclear pore complex protein NUP58",NA
+"981","HORVU.MOREX.r2.5HG0403680",1,FALSE,"Oil body-associated protein 1A",NA
+"982","HORVU.MOREX.r2.5HG0404510",1,FALSE,"Protein kinase family protein",NA
+"983","HORVU.MOREX.r2.5HG0404730",1,FALSE,"Chaperone protein htpG family protein",NA
+"984","HORVU.MOREX.r2.5HG0406220",3,TRUE,"Heat shock protein 90",NA
+"985","HORVU.MOREX.r2.5HG0406360",2,FALSE,"Eukaryotic translation initiation factor 3 subunit E",NA
+"986","HORVU.MOREX.r2.5HG0407060",1,FALSE,"Splicing factor U2af small subunit A",NA
+"987","HORVU.MOREX.r2.5HG0407260",1,FALSE,"3-hydroxy-3-methylglutaryl coenzyme A reductase",NA
+"988","HORVU.MOREX.r2.5HG0407450",1,FALSE,"Serine/threonine-protein phosphatase","32H"
+"989","HORVU.MOREX.r2.5HG0407870",2,FALSE,"Pumilio-like protein",NA
+"990","HORVU.MOREX.r2.5HG0408180",1,FALSE,"Calcium-transporting ATPase",NA
+"991","HORVU.MOREX.r2.5HG0408510",6,FALSE,"60S ribosomal protein L32",NA
+"992","HORVU.MOREX.r2.5HG0409420",2,FALSE,"Uridine kinase",NA
+"993","HORVU.MOREX.r2.5HG0409440",4,FALSE,"Proteasome subunit beta type","32H"
+"994","HORVU.MOREX.r2.5HG0409460",1,FALSE,"Auxin efflux carrier component",NA
+"995","HORVU.MOREX.r2.5HG0409500",3,FALSE,"pfkB-like carbohydrate kinase family protein",NA
+"996","HORVU.MOREX.r2.5HG0409710",1,FALSE,"Nuclear transport factor 2",NA
+"997","HORVU.MOREX.r2.5HG0409860",6,FALSE,"60S ribosomal protein L7a",NA
+"998","HORVU.MOREX.r2.5HG0410920",1,FALSE,"Ankyrin repeat domain containing protein",NA
+"999","HORVU.MOREX.r2.5HG0411080",1,FALSE,"Kinase family protein","32H"
+"1000","HORVU.MOREX.r2.5HG0411090",5,FALSE,"RNA-binding family protein",NA
+"1001","HORVU.MOREX.r2.5HG0411190",1,FALSE,"Heat shock 70 kDa protein",NA
+"1002","HORVU.MOREX.r2.5HG0411200",1,FALSE,"Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",NA
+"1003","HORVU.MOREX.r2.5HG0411360",4,FALSE,"Proteasome subunit beta type","32H"
+"1004","HORVU.MOREX.r2.5HG0412480",3,FALSE,"Ethylene-responsive transcription factor",NA
+"1005","HORVU.MOREX.r2.5HG0413420",1,FALSE,"Glucosamine-6-phosphate deaminase","32H"
+"1006","HORVU.MOREX.r2.5HG0413540",3,FALSE,"Auxin-responsive protein",NA
+"1007","HORVU.MOREX.r2.5HG0414190",1,FALSE,"Lon protease homolog",NA
+"1008","HORVU.MOREX.r2.5HG0414230",1,FALSE,"Cysteine synthase",NA
+"1009","HORVU.MOREX.r2.5HG0414440",1,FALSE,"Chlorophyll a-b binding protein, chloroplastic",NA
+"1010","HORVU.MOREX.r2.5HG0414620",1,FALSE,"Triosephosphate isomerase",NA
+"1011","HORVU.MOREX.r2.5HG0414960",2,FALSE,"Aspartate--tRNA ligase",NA
+"1012","HORVU.MOREX.r2.5HG0415180",4,FALSE,"Proteasome subunit alpha type","32H"
+"1013","HORVU.MOREX.r2.5HG0415460",3,FALSE,"Homeobox leucine zipper protein",NA
+"1014","HORVU.MOREX.r2.5HG0415950",4,FALSE,"26S proteasome regulatory subunit",NA
+"1015","HORVU.MOREX.r2.5HG0415980",3,FALSE,"DNA/RNA-binding protein Alba-like protein",NA
+"1016","HORVU.MOREX.r2.5HG0416920",4,FALSE,"T-complex protein 1 subunit beta",NA
+"1017","HORVU.MOREX.r2.5HG0417900",1,FALSE,"Plant regulator RWP-RK family protein, putative",NA
+"1018","HORVU.MOREX.r2.5HG0418950",3,FALSE,"F-box/kelch-repeat protein",NA
+"1019","HORVU.MOREX.r2.5HG0419180",1,FALSE,"Acetyl-coenzyme A synthetase",NA
+"1020","HORVU.MOREX.r2.5HG0419200",2,FALSE,"Octicosapeptide/Phox/Bem1p domain-containing protein / tetratricopeptide repeat-containing protein",NA
+"1021","HORVU.MOREX.r2.5HG0419240",1,FALSE,"Cysteine--tRNA ligase",NA
+"1022","HORVU.MOREX.r2.5HG0419760",1,FALSE,"Mediator of RNA polymerase II transcription subunit 8",NA
+"1023","HORVU.MOREX.r2.5HG0420530",3,FALSE,"SKP1-like protein",NA
+"1024","HORVU.MOREX.r2.5HG0421790",6,FALSE,"60S ribosomal protein L5",NA
+"1025","HORVU.MOREX.r2.5HG0421800",3,FALSE,"Chaperone protein dnaJ, putative",NA
+"1026","HORVU.MOREX.r2.5HG0421940",1,FALSE,"Serine/threonine-protein phosphatase",NA
+"1027","HORVU.MOREX.r2.5HG0421960",2,FALSE,"DNA-directed RNA polymerase subunit beta",NA
+"1028","HORVU.MOREX.r2.5HG0422070",3,FALSE,"Glutathione S-transferase",NA
+"1029","HORVU.MOREX.r2.5HG0422230",1,FALSE,"BTB/POZ domain-containing protein",NA
+"1030","HORVU.MOREX.r2.5HG0422820",3,FALSE,"Auxin-responsive protein",NA
+"1031","HORVU.MOREX.r2.5HG0422860",5,FALSE,"E3 ubiquitin protein ligase DRIP2",NA
+"1032","HORVU.MOREX.r2.5HG0423070",2,FALSE,"Vacuolar sorting-associated protein 18-like protein",NA
+"1033","HORVU.MOREX.r2.5HG0423130",5,FALSE,"WRKY transcription factor",NA
+"1034","HORVU.MOREX.r2.5HG0423220",5,FALSE,"E3 ubiquitin protein ligase DRIP2",NA
+"1035","HORVU.MOREX.r2.5HG0423400",3,FALSE,"Auxin-responsive protein","32H"
+"1036","HORVU.MOREX.r2.5HG0423450",2,FALSE,"ATP sulfurylase (Sulfate adenylyltransferase)",NA
+"1037","HORVU.MOREX.r2.5HG0423510",1,FALSE,"Kinase",NA
+"1038","HORVU.MOREX.r2.5HG0423860",3,FALSE,"Dehydration-responsive element binding factor protein",NA
+"1039","HORVU.MOREX.r2.5HG0424400",3,FALSE,"Transcriptional adapter ADA2",NA
+"1040","HORVU.MOREX.r2.5HG0424570",3,FALSE,"Potassium channel","32H"
+"1041","HORVU.MOREX.r2.5HG0424690",3,FALSE,"MADS-box transcription factor",NA
+"1042","HORVU.MOREX.r2.5HG0425100",1,FALSE,"UDP-glucose 6-dehydrogenase","32H"
+"1043","HORVU.MOREX.r2.5HG0425120",1,FALSE,"Alpha-1,4 glucan phosphorylase",NA
+"1044","HORVU.MOREX.r2.5HG0425630",4,FALSE,"Aspartate-semialdehyde dehydrogenase, N-acetyl-gamma-glutamyl-phosphate reductase",NA
+"1045","HORVU.MOREX.r2.5HG0425670",5,FALSE,"Phosphatase 2C family protein",NA
+"1046","HORVU.MOREX.r2.5HG0425760",3,FALSE,"Protein kinase",NA
+"1047","HORVU.MOREX.r2.5HG0425890",2,FALSE,"Protein kinase",NA
+"1048","HORVU.MOREX.r2.5HG0426070",3,FALSE,"Nuclear pore complex protein NUP58",NA
+"1049","HORVU.MOREX.r2.5HG0426470",1,FALSE,"30S ribosomal protein S9",NA
+"1050","HORVU.MOREX.r2.5HG0426660",3,FALSE,"Homeobox protein knotted-1-like 1",NA
+"1051","HORVU.MOREX.r2.5HG0426690",2,FALSE,"Eukaryotic translation initiation factor 3 subunit C",NA
+"1052","HORVU.MOREX.r2.5HG0426900",5,FALSE,"Receptor protein kinase-like protein",NA
+"1053","HORVU.MOREX.r2.5HG0426940",3,FALSE,"Tubulin alpha chain",NA
+"1054","HORVU.MOREX.r2.5HG0426980",1,FALSE,"Cytosolic purine 5-nucleotidase","32H"
+"1055","HORVU.MOREX.r2.5HG0427530",1,FALSE,"Citrate synthase",NA
+"1056","HORVU.MOREX.r2.5HG0427700",2,FALSE,"Elongation factor 1-alpha","32H"
+"1057","HORVU.MOREX.r2.5HG0427890",2,FALSE,"Inosine-5'-monophosphate dehydrogenase",NA
+"1058","HORVU.MOREX.r2.5HG0427900",3,FALSE,"Tubulin beta chain",NA
+"1059","HORVU.MOREX.r2.5HG0428640",1,FALSE,"Pentatricopeptide repeat-containing protein",NA
+"1060","HORVU.MOREX.r2.5HG0429120",3,FALSE,"Cell differentiation protein rcd1, putative, expressed",NA
+"1061","HORVU.MOREX.r2.5HG0429310",3,FALSE,"Glutathione-S-transferase",NA
+"1062","HORVU.MOREX.r2.5HG0429320",3,FALSE,"Glutathione-S-transferase",NA
+"1063","HORVU.MOREX.r2.5HG0429370",3,FALSE,"Peroxisomal (S)-2-hydroxy-acid oxidase","32H"
+"1064","HORVU.MOREX.r2.5HG0429640",2,FALSE,"Syntaxin, putative",NA
+"1065","HORVU.MOREX.r2.5HG0429690",3,FALSE,"Chaperone protein dnaJ, putative",NA
+"1066","HORVU.MOREX.r2.5HG0431510",6,FALSE,"60S ribosomal protein L4",NA
+"1067","HORVU.MOREX.r2.5HG0432020",2,FALSE,"Lysine--tRNA ligase",NA
+"1068","HORVU.MOREX.r2.5HG0432110",3,FALSE,"Diphosphomevalonate decarboxylase",NA
+"1069","HORVU.MOREX.r2.5HG0432120",5,FALSE,"E3 ubiquitin protein ligase DRIP2",NA
+"1070","HORVU.MOREX.r2.5HG0432220",5,FALSE,"WRKY transcription factor, putative",NA
+"1071","HORVU.MOREX.r2.5HG0433020",1,FALSE,"Actin cross-linking protein, putative",NA
+"1072","HORVU.MOREX.r2.5HG0433150",1,FALSE,"Kinase, putative",NA
+"1073","HORVU.MOREX.r2.5HG0433840",6,FALSE,"60S ribosomal protein L7",NA
+"1074","HORVU.MOREX.r2.5HG0434160",1,FALSE,"Serine/threonine-protein phosphatase",NA
+"1075","HORVU.MOREX.r2.5HG0434470",1,FALSE,"Photosystem I reaction center subunit II",NA
+"1076","HORVU.MOREX.r2.5HG0434930",4,FALSE,"Proteasome subunit beta type",NA
+"1077","HORVU.MOREX.r2.5HG0435350",3,FALSE,"SKP1-like protein",NA
+"1078","HORVU.MOREX.r2.5HG0435380",3,FALSE,"SKP1-like protein",NA
+"1079","HORVU.MOREX.r2.5HG0435390",3,FALSE,"SKP1-like protein",NA
+"1080","HORVU.MOREX.r2.5HG0435960",2,FALSE,"DNA gyrase subunit A",NA
+"1081","HORVU.MOREX.r2.5HG0436030",6,FALSE,"60S ribosomal protein L24",NA
+"1082","HORVU.MOREX.r2.5HG0436050",6,FALSE,"60S ribosomal protein L24",NA
+"1083","HORVU.MOREX.r2.5HG0436900",1,FALSE,"Multiple inositol polyphosphate phosphatase 1",NA
+"1084","HORVU.MOREX.r2.5HG0436910",1,FALSE,"Cinnamoyl-CoA reductase 4",NA
+"1085","HORVU.MOREX.r2.5HG0436960",3,FALSE,"PHD finger alfin-like protein",NA
+"1086","HORVU.MOREX.r2.5HG0437010",6,FALSE,"30S ribosomal protein S12",NA
+"1087","HORVU.MOREX.r2.5HG0437080",2,FALSE,"Leukotriene a-4 hydrolase aminopeptidase",NA
+"1088","HORVU.MOREX.r2.5HG0437610",3,FALSE,"70 kDa heat shock protein","32H"
+"1089","HORVU.MOREX.r2.5HG0438210",1,FALSE,"Photosystem I reaction center subunit IV","32H"
+"1090","HORVU.MOREX.r2.5HG0438250",1,FALSE,"Alpha-mannosidase",NA
+"1091","HORVU.MOREX.r2.5HG0438630",2,FALSE,"DNA-directed RNA polymerase subunit",NA
+"1092","HORVU.MOREX.r2.5HG0438820",1,FALSE,"UDP-glycosyltransferase",NA
+"1093","HORVU.MOREX.r2.5HG0438870",1,FALSE,"Kinase family protein",NA
+"1094","HORVU.MOREX.r2.5HG0439020",3,TRUE,"Kinetochore protein NDC80",NA
+"1095","HORVU.MOREX.r2.5HG0440080",3,FALSE,"Elongation factor",NA
+"1096","HORVU.MOREX.r2.5HG0440310",1,FALSE,"Galactokinase","32H"
+"1097","HORVU.MOREX.r2.5HG0440450",1,FALSE,"Short-chain dehydrogenase/reductase",NA
+"1098","HORVU.MOREX.r2.5HG0440740",3,FALSE,"Deaminase-related family protein","32H"
+"1099","HORVU.MOREX.r2.5HG0441050",8,FALSE,"Acyl-CoA-binding domain-containing protein 4","32H"
+"1100","HORVU.MOREX.r2.5HG0442290",1,FALSE,"Prohibitin",NA
+"1101","HORVU.MOREX.r2.5HG0442600",1,FALSE,"Prohibitin","32H"
+"1102","HORVU.MOREX.r2.5HG0442950",1,FALSE,"Late embryogenesis abundant protein Lea14",NA
+"1103","HORVU.MOREX.r2.5HG0442970",1,FALSE,"Luc7-like protein",NA
+"1104","HORVU.MOREX.r2.5HG0443190",1,FALSE,"Protein kinase-like protein",NA
+"1105","HORVU.MOREX.r2.5HG0444620",3,FALSE,"Cinnamoyl-CoA reductase 4","32H"
+"1106","HORVU.MOREX.r2.5HG0444970",4,FALSE,"26S proteasome non-ATPase regulatory subunit","32H"
+"1107","HORVU.MOREX.r2.5HG0445120",1,FALSE,"NAD-dependent malic enzyme","32H"
+"1108","HORVU.MOREX.r2.5HG0445590",1,FALSE,"Ycf20-like protein",NA
+"1109","HORVU.MOREX.r2.5HG0446400",1,FALSE,"Ribosome hibernation promotion factor",NA
+"1110","HORVU.MOREX.r2.5HG0446420",3,FALSE,"Sucrose nonfermenting 4-like protein",NA
+"1111","HORVU.MOREX.r2.5HG0446800",2,FALSE,"Exportin-1",NA
+"1112","HORVU.MOREX.r2.5HG0447050",5,FALSE,"RNA polymerase sigma factor","32H"
+"1113","HORVU.MOREX.r2.5HG0447070",4,FALSE,"60 kDa chaperonin",NA
+"1114","HORVU.MOREX.r2.5HG0447780",1,FALSE,"Glutathione S-transferase",NA
+"1115","HORVU.MOREX.r2.6HG0448760",1,FALSE,"Protein disulfide-isomerase",NA
+"1116","HORVU.MOREX.r2.6HG0449050",5,FALSE,"DAG, chloroplastic",NA
+"1117","HORVU.MOREX.r2.6HG0449710",5,FALSE,"RNA binding protein",NA
+"1118","HORVU.MOREX.r2.6HG0449830",1,FALSE,"4,5-dioxygenase-like protein",NA
+"1119","HORVU.MOREX.r2.6HG0449850",1,FALSE,"Flavonoid 3'-hydroxylase",NA
+"1120","HORVU.MOREX.r2.6HG0450230",3,FALSE,"Nitrate reductase",NA
+"1121","HORVU.MOREX.r2.6HG0451070",2,FALSE,"U5 small nuclear ribonucleoprotein helicase",NA
+"1122","HORVU.MOREX.r2.6HG0451310",1,FALSE,"Chloroplast stem-loop binding protein",NA
+"1123","HORVU.MOREX.r2.6HG0451430",1,FALSE,"Protein KINESIN LIGHT CHAIN-RELATED 3",NA
+"1124","HORVU.MOREX.r2.6HG0451800",1,FALSE,"Receptor-like protein kinase",NA
+"1125","HORVU.MOREX.r2.6HG0452060",4,FALSE,"Pre-mRNA-processing factor 39",NA
+"1126","HORVU.MOREX.r2.6HG0453310",3,FALSE,"Kinase family protein",NA
+"1127","HORVU.MOREX.r2.6HG0453490",3,FALSE,"Catalase",NA
+"1128","HORVU.MOREX.r2.6HG0454150",1,FALSE,"GMP synthase [glutamine-hydrolyzing]",NA
+"1129","HORVU.MOREX.r2.6HG0454200",6,FALSE,"60S ribosomal protein L13",NA
+"1130","HORVU.MOREX.r2.6HG0456240",1,FALSE,"Histone deacetylase complex subunit SAP18",NA
+"1131","HORVU.MOREX.r2.6HG0457310",2,FALSE,"Pre-mRNA-splicing factor ISY1",NA
+"1132","HORVU.MOREX.r2.6HG0457460",3,FALSE,"O-acyltransferase WSD1",NA
+"1133","HORVU.MOREX.r2.6HG0457700",4,FALSE,"Protein kinase",NA
+"1134","HORVU.MOREX.r2.6HG0458380",2,FALSE,"THO complex subunit 7",NA
+"1135","HORVU.MOREX.r2.6HG0458540",2,FALSE,"Eukaryotic translation initiation factor 3 subunit F",NA
+"1136","HORVU.MOREX.r2.6HG0458830",2,FALSE,"Ribose-phosphate pyrophosphokinase family protein",NA
+"1137","HORVU.MOREX.r2.6HG0460340",3,FALSE,"F-box family protein",NA
+"1138","HORVU.MOREX.r2.6HG0460800",1,FALSE,"Sec14p-like phosphatidylinositol transfer family protein",NA
+"1139","HORVU.MOREX.r2.6HG0460860",4,FALSE,"Proteasome subunit alpha type","32H"
+"1140","HORVU.MOREX.r2.6HG0461570",4,FALSE,"Calreticulin/calnexin","32H"
+"1141","HORVU.MOREX.r2.6HG0461610",4,FALSE,"Calreticulin/calnexin","32H"
+"1142","HORVU.MOREX.r2.6HG0462060",4,FALSE,"50S ribosomal protein L3",NA
+"1143","HORVU.MOREX.r2.6HG0462750",1,FALSE,"Protein arginine N-methyltransferase",NA
+"1144","HORVU.MOREX.r2.6HG0463090",3,FALSE,"Protein phosphatase 2c, putative",NA
+"1145","HORVU.MOREX.r2.6HG0463250",1,FALSE,"Subtilisin-like protease",NA
+"1146","HORVU.MOREX.r2.6HG0463510",4,FALSE,"Galactokinase",NA
+"1147","HORVU.MOREX.r2.6HG0463980",4,FALSE,"ATP-dependent RNA helicase",NA
+"1148","HORVU.MOREX.r2.6HG0464060",1,FALSE,"Glycosyltransferase",NA
+"1149","HORVU.MOREX.r2.6HG0464080",4,FALSE,"26S proteasome non-ATPase regulatory subunit-like protein","32H"
+"1150","HORVU.MOREX.r2.6HG0464530",3,FALSE,"Mitogen-activated protein kinase",NA
+"1151","HORVU.MOREX.r2.6HG0464580",1,FALSE,"nucleoporin",NA
+"1152","HORVU.MOREX.r2.6HG0464630",1,FALSE,"Serrate RNA effector molecule",NA
+"1153","HORVU.MOREX.r2.6HG0465250",3,FALSE,"Kelch repeat-containing protein 1",NA
+"1154","HORVU.MOREX.r2.6HG0465380",1,FALSE,"Diaminopimelate decarboxylase",NA
+"1155","HORVU.MOREX.r2.6HG0465700",2,FALSE,"Aspartate--tRNA ligase",NA
+"1156","HORVU.MOREX.r2.6HG0466040",3,FALSE,"COP9 signalosome complex subunit 5",NA
+"1157","HORVU.MOREX.r2.6HG0466830",1,FALSE,"Fatty acid oxidation complex subunit alpha","32H"
+"1158","HORVU.MOREX.r2.6HG0468110",1,FALSE,"Sugar transporter, putative",NA
+"1159","HORVU.MOREX.r2.6HG0469000",1,FALSE,"Polyubiquitin",NA
+"1160","HORVU.MOREX.r2.6HG0469030",2,FALSE,"Polyubiquitin protein",NA
+"1161","HORVU.MOREX.r2.6HG0470070",1,FALSE,"Tubulin beta chain",NA
+"1162","HORVU.MOREX.r2.6HG0470810",3,FALSE,"Sucrose-phosphate synthase",NA
+"1163","HORVU.MOREX.r2.6HG0471070",4,FALSE,"Proteasome subunit beta type",NA
+"1164","HORVU.MOREX.r2.6HG0471130",3,FALSE,"ATP-dependent chaperone ClpB",NA
+"1165","HORVU.MOREX.r2.6HG0471210",3,TRUE,"WRKY transcription factor",NA
+"1166","HORVU.MOREX.r2.6HG0471630",2,FALSE,"3-hydroxyisobutyrate dehydrogenase, putative","32H"
+"1167","HORVU.MOREX.r2.6HG0472100",1,FALSE,"Flavin-containing monooxygenase",NA
+"1168","HORVU.MOREX.r2.6HG0472690",1,FALSE,"Calcium-transporting ATPase",NA
+"1169","HORVU.MOREX.r2.6HG0472890",5,FALSE,"Receptor-like protein kinase",NA
+"1170","HORVU.MOREX.r2.6HG0473250",5,FALSE,"Protein kinase",NA
+"1171","HORVU.MOREX.r2.6HG0474000",1,FALSE,"DNA (Cytosine-5-)-methyltransferase",NA
+"1172","HORVU.MOREX.r2.6HG0474240",4,FALSE,"Phosphoglycerate kinase",NA
+"1173","HORVU.MOREX.r2.6HG0474380",5,FALSE,"Kinase family protein",NA
+"1174","HORVU.MOREX.r2.6HG0474390",4,FALSE,"26S protease regulatory subunit",NA
+"1175","HORVU.MOREX.r2.6HG0474400",4,FALSE,"C2 and GRAM domain-containing protein",NA
+"1176","HORVU.MOREX.r2.6HG0475350",1,FALSE,"TBCC domain-containing protein 1","32H"
+"1177","HORVU.MOREX.r2.6HG0475380",5,FALSE,"Receptor-like protein kinase",NA
+"1178","HORVU.MOREX.r2.6HG0475780",3,FALSE,"SWI/SNF complex subunit SWI3B",NA
+"1179","HORVU.MOREX.r2.6HG0476250",1,FALSE,"Peroxiredoxin, putative",NA
+"1180","HORVU.MOREX.r2.6HG0476630",5,FALSE,"Alpha/beta-Hydrolases superfamily protein",NA
+"1181","HORVU.MOREX.r2.6HG0477060",1,FALSE,"Subtilisin-like protease",NA
+"1182","HORVU.MOREX.r2.6HG0477260",1,FALSE,"Alcohol dehydrogenase, putative","32H"
+"1183","HORVU.MOREX.r2.6HG0478760",4,FALSE,"26S protease regulatory subunit, putative",NA
+"1184","HORVU.MOREX.r2.6HG0479200",6,FALSE,"60S ribosomal protein L27",NA
+"1185","HORVU.MOREX.r2.6HG0479380",1,FALSE,"Histone deacetylase",NA
+"1186","HORVU.MOREX.r2.6HG0479730",3,FALSE,"F-box protein",NA
+"1187","HORVU.MOREX.r2.6HG0480040",1,FALSE,"Histone deacetylase",NA
+"1188","HORVU.MOREX.r2.6HG0480120",1,FALSE,"Serine/threonine-protein phosphatase","32H"
+"1189","HORVU.MOREX.r2.6HG0480450",1,FALSE,"Aminopeptidase",NA
+"1190","HORVU.MOREX.r2.6HG0480750",3,FALSE,"Beta-galactosidase",NA
+"1191","HORVU.MOREX.r2.6HG0481060",4,FALSE,"ATP synthase subunit beta",NA
+"1192","HORVU.MOREX.r2.6HG0481070",1,FALSE,"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B",NA
+"1193","HORVU.MOREX.r2.6HG0481830",3,FALSE,"Copine-1",NA
+"1194","HORVU.MOREX.r2.6HG0483020",3,FALSE,"Neutral/alkaline invertase","32H"
+"1195","HORVU.MOREX.r2.6HG0483250",3,FALSE,"SNARE-interacting protein KEULE",NA
+"1196","HORVU.MOREX.r2.6HG0483590",1,FALSE,"Apoptosis inhibitor 5",NA
+"1197","HORVU.MOREX.r2.6HG0484190",1,FALSE,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase","32H"
+"1198","HORVU.MOREX.r2.6HG0484240",6,FALSE,"40S ribosomal protein S24",NA
+"1199","HORVU.MOREX.r2.6HG0485120",1,FALSE,"DNA repair family protein",NA
+"1200","HORVU.MOREX.r2.6HG0486770",2,FALSE,"Vacuolar protein sorting-associated protein 29","32H"
+"1201","HORVU.MOREX.r2.6HG0487260",3,FALSE,"Elongation factor 4",NA
+"1202","HORVU.MOREX.r2.6HG0488170",1,FALSE,"Ras-related protein",NA
+"1203","HORVU.MOREX.r2.6HG0489240",2,FALSE,"Armadillo repeat-containing protein LFR","32H"
+"1204","HORVU.MOREX.r2.6HG0489660",1,FALSE,"Ubiquitin-associated protein",NA
+"1205","HORVU.MOREX.r2.6HG0489930",3,FALSE,"Elongation factor Tu",NA
+"1206","HORVU.MOREX.r2.6HG0490080",5,FALSE,"Vacuolar protein sorting-associated protein 20",NA
+"1207","HORVU.MOREX.r2.6HG0490260",3,FALSE,"Cyclin family protein",NA
+"1208","HORVU.MOREX.r2.6HG0490320",4,FALSE,"26S proteasome non-atpase regulatory subunit, putative",NA
+"1209","HORVU.MOREX.r2.6HG0490460",3,FALSE,"Cyclin family protein",NA
+"1210","HORVU.MOREX.r2.6HG0490630",1,FALSE,"Oxygen-dependent coproporphyrinogen-III oxidase","32H"
+"1211","HORVU.MOREX.r2.6HG0490690",3,FALSE,"Glyceraldehyde-3-phosphate dehydrogenase","32H"
+"1212","HORVU.MOREX.r2.6HG0491090",1,FALSE,"4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)",NA
+"1213","HORVU.MOREX.r2.6HG0491380",1,FALSE,"RNA-binding protein",NA
+"1214","HORVU.MOREX.r2.6HG0491530",1,FALSE,"Luc7-like protein",NA
+"1215","HORVU.MOREX.r2.6HG0491710",1,FALSE,"Acetolactate synthase small subunit","32H"
+"1216","HORVU.MOREX.r2.6HG0492080",1,FALSE,"Hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyltransferase","32H"
+"1217","HORVU.MOREX.r2.6HG0492100",1,FALSE,"GrpE protein homolog",NA
+"1218","HORVU.MOREX.r2.6HG0492210",6,FALSE,"30S ribosomal protein S17",NA
+"1219","HORVU.MOREX.r2.6HG0493020",6,FALSE,"60S ribosomal protein L27",NA
+"1220","HORVU.MOREX.r2.6HG0494310",4,FALSE,"Adenosine kinase-like protein","32H"
+"1221","HORVU.MOREX.r2.6HG0494390",1,FALSE,"Phenylalanine ammonia-lyase","32H"
+"1222","HORVU.MOREX.r2.6HG0494410",1,FALSE,"Phenylalanine ammonia-lyase",NA
+"1223","HORVU.MOREX.r2.6HG0494420",1,FALSE,"Phenylalanine ammonia-lyase","32H"
+"1224","HORVU.MOREX.r2.6HG0495370",2,FALSE,"Nitrilase",NA
+"1225","HORVU.MOREX.r2.6HG0495380",1,FALSE,"Nitrilase",NA
+"1226","HORVU.MOREX.r2.6HG0496300",1,FALSE,"Methyltransferase","32H"
+"1227","HORVU.MOREX.r2.6HG0496750",3,FALSE,"Aldehyde dehydrogenase",NA
+"1228","HORVU.MOREX.r2.6HG0496790",3,FALSE,"Aldehyde dehydrogenase",NA
+"1229","HORVU.MOREX.r2.6HG0497280",1,FALSE,"WRKY transcription factor",NA
+"1230","HORVU.MOREX.r2.6HG0498050",3,FALSE,"E3 ubiquitin-protein ligase BRE1-like 1",NA
+"1231","HORVU.MOREX.r2.6HG0498130",3,FALSE,"auxin canalization protein (DUF828)",NA
+"1232","HORVU.MOREX.r2.6HG0498460",1,FALSE,"Sulfotransferase",NA
+"1233","HORVU.MOREX.r2.6HG0498600",5,FALSE,"C2H2-like zinc finger protein",NA
+"1234","HORVU.MOREX.r2.6HG0498950",1,FALSE,"BEACH domain-containing protein",NA
+"1235","HORVU.MOREX.r2.6HG0499320",2,FALSE,"Aquaporin","32H"
+"1236","HORVU.MOREX.r2.6HG0499400",2,FALSE,"Transmembrane protein-like protein","32H"
+"1237","HORVU.MOREX.r2.6HG0500350",3,FALSE,"Chaperone DnaJ",NA
+"1238","HORVU.MOREX.r2.6HG0500570",3,FALSE,"3,5-epimerase/4-reductase",NA
+"1239","HORVU.MOREX.r2.6HG0500860",1,FALSE,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",NA
+"1240","HORVU.MOREX.r2.6HG0501040",3,FALSE,"WD-repeat 1","32H"
+"1241","HORVU.MOREX.r2.6HG0501260",1,FALSE,"Germin-like protein",NA
+"1242","HORVU.MOREX.r2.6HG0501330",1,FALSE,"Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain-containing protein",NA
+"1243","HORVU.MOREX.r2.6HG0501410",1,FALSE,"Calcium-dependent protein kinase",NA
+"1244","HORVU.MOREX.r2.6HG0502270",4,FALSE,"C2 and GRAM domain-containing protein",NA
+"1245","HORVU.MOREX.r2.6HG0502330",1,FALSE,"Oligopeptide transporter, putative",NA
+"1246","HORVU.MOREX.r2.6HG0502340",1,FALSE,"Oligopeptide transporter, putative",NA
+"1247","HORVU.MOREX.r2.6HG0502610",1,FALSE,"Phosphoribulokinase",NA
+"1248","HORVU.MOREX.r2.6HG0502730",6,FALSE,"50S ribosomal protein L11",NA
+"1249","HORVU.MOREX.r2.6HG0503580",3,FALSE,"Ornithine carbamoyltransferase",NA
+"1250","HORVU.MOREX.r2.6HG0503590",1,FALSE,"Inorganic pyrophosphatase, putative","32H"
+"1251","HORVU.MOREX.r2.6HG0503690",1,FALSE,"Adenine nucleotide alpha hydrolases-like superfamily protein",NA
+"1252","HORVU.MOREX.r2.6HG0505010",2,FALSE,"Histone H2A",NA
+"1253","HORVU.MOREX.r2.6HG0505060",1,FALSE,"3-hydroxy-3-methylglutaryl coenzyme A reductase",NA
+"1254","HORVU.MOREX.r2.6HG0505220",3,FALSE,"Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha","32H"
+"1255","HORVU.MOREX.r2.6HG0505470",2,FALSE,"Clustered mitochondria protein homolog",NA
+"1256","HORVU.MOREX.r2.6HG0505700",1,FALSE,"ADP,ATP carrier protein, mitochondrial","32H"
+"1257","HORVU.MOREX.r2.6HG0505960",3,FALSE,"Dual specificity protein phosphatase, putative",NA
+"1258","HORVU.MOREX.r2.6HG0506490",1,FALSE,"Transmembrane 9 superfamily member",NA
+"1259","HORVU.MOREX.r2.6HG0506500",1,FALSE,"Transmembrane 9 superfamily member","32H"
+"1260","HORVU.MOREX.r2.6HG0506520",1,FALSE,"Potassium channel",NA
+"1261","HORVU.MOREX.r2.6HG0506560",3,FALSE,"Ethylene receptor",NA
+"1262","HORVU.MOREX.r2.6HG0506610",2,FALSE,"Enhancer of mRNA-decapping protein 4","32H"
+"1263","HORVU.MOREX.r2.6HG0506770",3,FALSE,"Nuclear transcription factor Y subunit B",NA
+"1264","HORVU.MOREX.r2.6HG0506910",1,FALSE,"Acetolactate synthase","32H"
+"1265","HORVU.MOREX.r2.6HG0507460",1,FALSE,"Aldehyde dehydrogenase",NA
+"1266","HORVU.MOREX.r2.6HG0507900",5,FALSE,"U-box domain-containing protein",NA
+"1267","HORVU.MOREX.r2.6HG0508650",1,FALSE,"Dihydroorotate dehydrogenase (Quinone)",NA
+"1268","HORVU.MOREX.r2.6HG0508760",1,FALSE,"Annexin","32H"
+"1269","HORVU.MOREX.r2.6HG0510040",3,FALSE,"TCP transcription factor",NA
+"1270","HORVU.MOREX.r2.6HG0510420",1,FALSE,"5-oxoprolinase",NA
+"1271","HORVU.MOREX.r2.6HG0510620",3,FALSE,"Peroxidase",NA
+"1272","HORVU.MOREX.r2.6HG0510940",1,FALSE,"Glycine cleavage system h protein, putative",NA
+"1273","HORVU.MOREX.r2.6HG0511220",1,FALSE,"Peptidyl-prolyl cis-trans isomerase",NA
+"1274","HORVU.MOREX.r2.6HG0511490",3,FALSE,"Transport inhibitor response 1-like protein","32H"
+"1275","HORVU.MOREX.r2.6HG0512020",3,FALSE,"Glutamyl-tRNA(Gln) amidotransferase subunit A",NA
+"1276","HORVU.MOREX.r2.6HG0512490",2,FALSE,"Phenylalanine--tRNA ligase alpha subunit",NA
+"1277","HORVU.MOREX.r2.6HG0512680",1,FALSE,"Thioredoxin",NA
+"1278","HORVU.MOREX.r2.6HG0512750",1,FALSE,"Cyclic nucleotide gated channel",NA
+"1279","HORVU.MOREX.r2.6HG0512760",1,FALSE,"1-aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase",NA
+"1280","HORVU.MOREX.r2.6HG0512770",1,FALSE,"Universal stress protein family protein",NA
+"1281","HORVU.MOREX.r2.6HG0513500",2,FALSE,"WAT1-related protein",NA
+"1282","HORVU.MOREX.r2.6HG0513540",2,FALSE,"WAT1-related protein",NA
+"1283","HORVU.MOREX.r2.6HG0513560",2,FALSE,"WAT1-related protein",NA
+"1284","HORVU.MOREX.r2.6HG0513870",1,FALSE,"Lipase",NA
+"1285","HORVU.MOREX.r2.6HG0514060",1,FALSE,"Nitrite reductase",NA
+"1286","HORVU.MOREX.r2.6HG0514200",1,FALSE,"Allene oxide cyclase","32H"
+"1287","HORVU.MOREX.r2.6HG0514370",3,FALSE,"Growth-regulating factor",NA
+"1288","HORVU.MOREX.r2.6HG0514480",1,FALSE,"Isoleucine--tRNA ligase",NA
+"1289","HORVU.MOREX.r2.6HG0514790",1,FALSE,"DNA (Cytosine-5-)-methyltransferase",NA
+"1290","HORVU.MOREX.r2.6HG0515070",1,FALSE,"10 kDa chaperonin",NA
+"1291","HORVU.MOREX.r2.6HG0515510",1,FALSE,"70 kDa heat shock protein",NA
+"1292","HORVU.MOREX.r2.6HG0515910",4,FALSE,"26S protease regulatory subunit","32H"
+"1293","HORVU.MOREX.r2.6HG0516180",3,FALSE,"Protein kinase",NA
+"1294","HORVU.MOREX.r2.6HG0516400",3,FALSE,"Glutamate receptor",NA
+"1295","HORVU.MOREX.r2.6HG0516450",3,FALSE,"Glutamate receptor",NA
+"1296","HORVU.MOREX.r2.6HG0516470",2,FALSE,"Eukaryotic translation initiation factor 3 subunit G",NA
+"1297","HORVU.MOREX.r2.6HG0517950",2,FALSE,"Elongation factor 1-alpha",NA
+"1298","HORVU.MOREX.r2.6HG0518380",1,FALSE,"Plasma membrane ATPase",NA
+"1299","HORVU.MOREX.r2.6HG0518400",1,FALSE,"Aspartate aminotransferase",NA
+"1300","HORVU.MOREX.r2.6HG0519560",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"1301","HORVU.MOREX.r2.6HG0520000",4,FALSE,"26S protease regulatory subunit-like protein",NA
+"1302","HORVU.MOREX.r2.6HG0520230",3,FALSE,"Chaperone protein dnaJ",NA
+"1303","HORVU.MOREX.r2.6HG0520300",1,FALSE,"AP-1 complex subunit gamma-2",NA
+"1304","HORVU.MOREX.r2.6HG0520370",1,FALSE,"Proliferating cell nuclear antigen",NA
+"1305","HORVU.MOREX.r2.6HG0520780",1,FALSE,"Clathrin interactor EPSIN-like protein","32H"
+"1306","HORVU.MOREX.r2.6HG0521380",1,FALSE,"U-box domain-containing family protein",NA
+"1307","HORVU.MOREX.r2.6HG0521570",1,FALSE,"U-box domain-containing family protein",NA
+"1308","HORVU.MOREX.r2.6HG0522010",1,FALSE,"Alcohol dehydrogenase",NA
+"1309","HORVU.MOREX.r2.6HG0522550",1,FALSE,"Acetyl-coenzyme A synthetase",NA
+"1310","HORVU.MOREX.r2.6HG0522870",1,FALSE,"Potassium channel beta subunit",NA
+"1311","HORVU.MOREX.r2.6HG0523490",4,FALSE,"T-complex protein 1 subunit zeta",NA
+"1312","HORVU.MOREX.r2.6HG0523600",2,FALSE,"rRNA 2'-O-methyltransferase fibrillarin 2",NA
+"1313","HORVU.MOREX.r2.6HG0524000",3,FALSE,"Histone H2A",NA
+"1314","HORVU.MOREX.r2.6HG0524260",1,FALSE,"Subtilisin-like protease",NA
+"1315","HORVU.MOREX.r2.6HG0524330",3,FALSE,"Remorin",NA
+"1316","HORVU.MOREX.r2.6HG0526130",1,FALSE,"Mitochondrial intermediate peptidase",NA
+"1317","HORVU.MOREX.r2.6HG0526520",1,FALSE,"Calcium-dependent protein kinase",NA
+"1318","HORVU.MOREX.r2.6HG0526770",2,FALSE,"Syntaxin",NA
+"1319","HORVU.MOREX.r2.7HG0527130",1,FALSE,"RING/U-box superfamily protein",NA
+"1320","HORVU.MOREX.r2.7HG0527390",1,FALSE,"Acyl-coenzyme A oxidase","32H"
+"1321","HORVU.MOREX.r2.7HG0528960",6,FALSE,"50S ribosomal protein L6",NA
+"1322","HORVU.MOREX.r2.7HG0530440",6,FALSE,"30S ribosomal protein S13",NA
+"1323","HORVU.MOREX.r2.7HG0531000",1,FALSE,"6-phosphogluconate dehydrogenase, decarboxylating","32H"
+"1324","HORVU.MOREX.r2.7HG0531720",3,FALSE,"Argonaute",NA
+"1325","HORVU.MOREX.r2.7HG0531800",1,FALSE,"Sucrose synthase",NA
+"1326","HORVU.MOREX.r2.7HG0531890",1,FALSE,"Flavonoid 3'-hydroxylase",NA
+"1327","HORVU.MOREX.r2.7HG0532120",1,FALSE,"Cytochrome P450",NA
+"1328","HORVU.MOREX.r2.7HG0532270",1,FALSE,"Phosphoglucan, water dikinase",NA
+"1329","HORVU.MOREX.r2.7HG0532570",1,FALSE,"Superoxide dismutase",NA
+"1330","HORVU.MOREX.r2.7HG0532700",2,FALSE,"Syntaxin","32H"
+"1331","HORVU.MOREX.r2.7HG0532760",3,FALSE,"Guanine nucleotide-binding protein subunit alpha-like protein",NA
+"1332","HORVU.MOREX.r2.7HG0532800",5,FALSE,"DAG protein, chloroplastic",NA
+"1333","HORVU.MOREX.r2.7HG0534930",1,FALSE,"Sulfite exporter TauE/SafE family protein, putative",NA
+"1334","HORVU.MOREX.r2.7HG0535720",4,FALSE,"1-deoxy-D-xylulose-5-phosphate synthase, Transketolase",NA
+"1335","HORVU.MOREX.r2.7HG0535840",6,FALSE,"30S ribosomal protein S10",NA
+"1336","HORVU.MOREX.r2.7HG0536440",2,FALSE,"Eukaryotic translation initiation factor 3 subunit A",NA
+"1337","HORVU.MOREX.r2.7HG0537070",3,FALSE,"Enolase","32H"
+"1338","HORVU.MOREX.r2.7HG0537350",3,FALSE,"GDP-mannose 4,6-dehydratase",NA
+"1339","HORVU.MOREX.r2.7HG0537870",4,FALSE,"Proteasome subunit beta type",NA
+"1340","HORVU.MOREX.r2.7HG0538280",1,FALSE,"Cytochrome P450",NA
+"1341","HORVU.MOREX.r2.7HG0538410",1,FALSE,"UDP-glycosyltransferase",NA
+"1342","HORVU.MOREX.r2.7HG0538510",2,FALSE,"WAT1-related protein",NA
+"1343","HORVU.MOREX.r2.7HG0540180",2,FALSE,"3'(2'),5'-bisphosphate nucleotidase 1",NA
+"1344","HORVU.MOREX.r2.7HG0540760",1,FALSE,"ATP-dependent 6-phosphofructokinase",NA
+"1345","HORVU.MOREX.r2.7HG0540790",1,FALSE,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",NA
+"1346","HORVU.MOREX.r2.7HG0541070",4,FALSE,"Proteasome subunit beta type","32H"
+"1347","HORVU.MOREX.r2.7HG0541250",5,FALSE,"Photosynthetic NDH subcomplex B 3",NA
+"1348","HORVU.MOREX.r2.7HG0541760",3,FALSE,"Mitogen-activated protein kinase",NA
+"1349","HORVU.MOREX.r2.7HG0541840",3,FALSE,"Agamous MADS-box transcription factor",NA
+"1350","HORVU.MOREX.r2.7HG0542470",3,FALSE,"O-acyltransferase WSD1",NA
+"1351","HORVU.MOREX.r2.7HG0542800",1,FALSE,"Subtilisin-like protease","32H"
+"1352","HORVU.MOREX.r2.7HG0542820",1,FALSE,"Subtilisin-like protease","32H"
+"1353","HORVU.MOREX.r2.7HG0542830",1,FALSE,"Subtilisin-like protease",NA
+"1354","HORVU.MOREX.r2.7HG0543180",1,FALSE,"Starch synthase, chloroplastic/amyloplastic",NA
+"1355","HORVU.MOREX.r2.7HG0543330",1,FALSE,"TOM1-like protein 2",NA
+"1356","HORVU.MOREX.r2.7HG0544410",2,FALSE,"Pre-mRNA-processing-splicing factor 8",NA
+"1357","HORVU.MOREX.r2.7HG0544420",1,FALSE,"AP-1 complex subunit gamma-2",NA
+"1358","HORVU.MOREX.r2.7HG0544550",4,FALSE,"Proteasome subunit alpha type","32H"
+"1359","HORVU.MOREX.r2.7HG0544570",3,FALSE,"MYB transcription factor",NA
+"1360","HORVU.MOREX.r2.7HG0544690",2,FALSE,"Zinc finger CCCH domain protein",NA
+"1361","HORVU.MOREX.r2.7HG0544720",1,FALSE,"Flavin-containing monooxygenase",NA
+"1362","HORVU.MOREX.r2.7HG0545050",6,FALSE,"30S ribosomal protein S10",NA
+"1363","HORVU.MOREX.r2.7HG0545250",2,FALSE,"Vesicle-associated membrane protein","32H"
+"1364","HORVU.MOREX.r2.7HG0545260",1,FALSE,"Cytochrome P450",NA
+"1365","HORVU.MOREX.r2.7HG0545610",1,FALSE,"Hexosyltransferase",NA
+"1366","HORVU.MOREX.r2.7HG0546040",3,FALSE,"Aberrant root formation protein 4",NA
+"1367","HORVU.MOREX.r2.7HG0547730",3,FALSE,"Glutamate receptor",NA
+"1368","HORVU.MOREX.r2.7HG0547990",3,FALSE,"Protein kinase",NA
+"1369","HORVU.MOREX.r2.7HG0548070",2,FALSE,"UDP-glycosyltransferase",NA
+"1370","HORVU.MOREX.r2.7HG0548300",1,FALSE,"Amino acid transporter, putative",NA
+"1371","HORVU.MOREX.r2.7HG0548840",1,FALSE,"Sucrose synthase","32H"
+"1372","HORVU.MOREX.r2.7HG0549250",3,FALSE,"Auxin response factor",NA
+"1373","HORVU.MOREX.r2.7HG0549280",1,FALSE,"10 kDa chaperonin",NA
+"1374","HORVU.MOREX.r2.7HG0549490",4,FALSE,"T-complex protein 1 subunit delta",NA
+"1375","HORVU.MOREX.r2.7HG0550010",1,FALSE,"Hydroxyproline-rich glycoprotein-like","32H"
+"1376","HORVU.MOREX.r2.7HG0550540",1,FALSE,"Lipase",NA
+"1377","HORVU.MOREX.r2.7HG0550590",2,FALSE,"Glycosyltransferase",NA
+"1378","HORVU.MOREX.r2.7HG0551130",1,FALSE,"Peptidyl-prolyl cis-trans isomerase",NA
+"1379","HORVU.MOREX.r2.7HG0551730",3,FALSE,"Germin-like protein",NA
+"1380","HORVU.MOREX.r2.7HG0551940",1,FALSE,"Annexin",NA
+"1381","HORVU.MOREX.r2.7HG0551980",2,FALSE,"DNA-directed RNA polymerase subunit",NA
+"1382","HORVU.MOREX.r2.7HG0552220",1,FALSE,"U-box domain-containing protein",NA
+"1383","HORVU.MOREX.r2.7HG0552760",3,FALSE,"TCP transcription factor",NA
+"1384","HORVU.MOREX.r2.7HG0553180",1,FALSE,"Progesterone 5-beta-reductase",NA
+"1385","HORVU.MOREX.r2.7HG0554710",2,FALSE,"ATP-dependent RNA helicase",NA
+"1386","HORVU.MOREX.r2.7HG0554840",2,FALSE,"Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta","32H"
+"1387","HORVU.MOREX.r2.7HG0555440",1,FALSE,"Cytochrome P450",NA
+"1388","HORVU.MOREX.r2.7HG0556150",1,FALSE,"Fructose-bisphosphate aldolase","32H"
+"1389","HORVU.MOREX.r2.7HG0556350",4,FALSE,"Uv excision repair protein rad23, putative",NA
+"1390","HORVU.MOREX.r2.7HG0557100",1,FALSE,"ADP,ATP carrier protein, mitochondrial",NA
+"1391","HORVU.MOREX.r2.7HG0557120",1,FALSE,"Aldehyde dehydrogenase",NA
+"1392","HORVU.MOREX.r2.7HG0558580",6,FALSE,"50S ribosomal protein L6",NA
+"1393","HORVU.MOREX.r2.7HG0558720",4,FALSE,"T-complex protein 1 subunit alpha","32H"
+"1394","HORVU.MOREX.r2.7HG0558950",4,FALSE,"C2 and GRAM domain-containing protein",NA
+"1395","HORVU.MOREX.r2.7HG0559690",1,FALSE,"Proteasome activator subunit 4-like","32H"
+"1396","HORVU.MOREX.r2.7HG0559890",3,FALSE,"Dual specificity protein phosphatase, putative",NA
+"1397","HORVU.MOREX.r2.7HG0560460",1,FALSE,"UPF0061 protein",NA
+"1398","HORVU.MOREX.r2.7HG0560740",3,FALSE,"basic helix-loop-helix (bHLH) DNA-binding superfamily protein",NA
+"1399","HORVU.MOREX.r2.7HG0561040",1,FALSE,"AT hook motif DNA-binding family protein",NA
+"1400","HORVU.MOREX.r2.7HG0561100",2,FALSE,"Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha","32H"
+"1401","HORVU.MOREX.r2.7HG0561290",1,FALSE,"Serine/threonine-protein kinase",NA
+"1402","HORVU.MOREX.r2.7HG0561660",1,FALSE,"formate dehydrogenase",NA
+"1403","HORVU.MOREX.r2.7HG0562200",2,FALSE,"Eukaryotic translation initiation factor 3 subunit F","32H"
+"1404","HORVU.MOREX.r2.7HG0562490",1,FALSE,"Transmembrane 9 superfamily member",NA
+"1405","HORVU.MOREX.r2.7HG0562980",1,FALSE,"Alpha-glucan water dikinase","32H"
+"1406","HORVU.MOREX.r2.7HG0563540",3,FALSE,"Alanine:glyoxylate aminotransferase","32H"
+"1407","HORVU.MOREX.r2.7HG0564870",1,FALSE,"Succinyl-diaminopimelate desuccinylase","32H"
+"1408","HORVU.MOREX.r2.7HG0565030",1,FALSE,"3-hydroxy-3-methylglutaryl coenzyme A reductase",NA
+"1409","HORVU.MOREX.r2.7HG0565500",3,FALSE,"plant/protein (Protein of unknown function, DUF599)",NA
+"1410","HORVU.MOREX.r2.7HG0566020",2,FALSE,"Pumilio-like protein",NA
+"1411","HORVU.MOREX.r2.7HG0566270",1,FALSE,"Pyridoxamine 5'-phosphate oxidase-related, FMN-binding",NA
+"1412","HORVU.MOREX.r2.7HG0566300",1,FALSE,"Serrate RNA effector molecule",NA
+"1413","HORVU.MOREX.r2.7HG0566310",1,FALSE,"Calcium-transporting ATPase",NA
+"1414","HORVU.MOREX.r2.7HG0567230",6,FALSE,"60S ribosomal protein L32",NA
+"1415","HORVU.MOREX.r2.7HG0567610",2,FALSE,"Uridine kinase","32H"
+"1416","HORVU.MOREX.r2.7HG0567650",6,FALSE,"50S ribosomal protein L22",NA
+"1417","HORVU.MOREX.r2.7HG0567710",3,FALSE,"Nitrate reductase",NA
+"1418","HORVU.MOREX.r2.7HG0567870",1,FALSE,"Glutamate-1-semialdehyde 2,1-aminomutase",NA
+"1419","HORVU.MOREX.r2.7HG0567930",1,FALSE,"Nuclear transport factor 2","32H"
+"1420","HORVU.MOREX.r2.7HG0568170",6,FALSE,"60S ribosomal protein L7a",NA
+"1421","HORVU.MOREX.r2.7HG0568980",1,FALSE,"Receptor protein kinase, putative","32H"
+"1422","HORVU.MOREX.r2.7HG0569380",1,FALSE,"Ankyrin repeat domain containing protein",NA
+"1423","HORVU.MOREX.r2.7HG0569970",1,FALSE,"Reticulocyte-binding protein 2 a",NA
+"1424","HORVU.MOREX.r2.7HG0570080",3,FALSE,"Nck-associated protein 1",NA
+"1425","HORVU.MOREX.r2.7HG0570150",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"1426","HORVU.MOREX.r2.7HG0570530",1,FALSE,"Glucosamine-6-phosphate deaminase",NA
+"1427","HORVU.MOREX.r2.7HG0570680",1,FALSE,"Cytochrome P450 family protein",NA
+"1428","HORVU.MOREX.r2.7HG0570790",4,FALSE,"Proteasome subunit alpha type",NA
+"1429","HORVU.MOREX.r2.7HG0571730",1,FALSE,"7,8-dihydroneopterin aldolase","32H"
+"1430","HORVU.MOREX.r2.7HG0572270",6,FALSE,"Ribosomal protein",NA
+"1431","HORVU.MOREX.r2.7HG0572930",3,FALSE,"PLATZ transcription factor family protein",NA
+"1432","HORVU.MOREX.r2.7HG0574340",5,FALSE,"Alpha/beta-Hydrolases superfamily protein",NA
+"1433","HORVU.MOREX.r2.7HG0575590",1,FALSE,"Polyadenylate-binding protein",NA
+"1434","HORVU.MOREX.r2.7HG0577600",6,FALSE,"60S ribosomal protein L13",NA
+"1435","HORVU.MOREX.r2.7HG0577670",6,FALSE,"30S ribosomal protein S3",NA
+"1436","HORVU.MOREX.r2.7HG0577820",1,FALSE,"Glucose-1-phosphate adenylyltransferase",NA
+"1437","HORVU.MOREX.r2.7HG0578220",5,FALSE,"Protein kinase",NA
+"1438","HORVU.MOREX.r2.7HG0578670",1,FALSE,"Sugar transporter, putative",NA
+"1439","HORVU.MOREX.r2.7HG0578820",1,FALSE,"ABC transporter ATP-binding protein ARB1",NA
+"1440","HORVU.MOREX.r2.7HG0579340",1,FALSE,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",NA
+"1441","HORVU.MOREX.r2.7HG0579980",3,FALSE,"Mitogen-activated protein kinase",NA
+"1442","HORVU.MOREX.r2.7HG0580380",1,FALSE,"WAT1-related protein",NA
+"1443","HORVU.MOREX.r2.7HG0580390",6,FALSE,"60S ribosomal protein L34",NA
+"1444","HORVU.MOREX.r2.7HG0580930",2,FALSE,"DNA topoisomerase 1",NA
+"1445","HORVU.MOREX.r2.7HG0581760",1,FALSE,"Exosome complex component",NA
+"1446","HORVU.MOREX.r2.7HG0582190",1,FALSE,"DAG protein, chloroplastic",NA
+"1447","HORVU.MOREX.r2.7HG0582550",4,FALSE,"Tryptophan synthase beta chain","32H"
+"1448","HORVU.MOREX.r2.7HG0582780",1,FALSE,"BTB/POZ domain-containing protein",NA
+"1449","HORVU.MOREX.r2.7HG0582860",4,FALSE,"ATP-dependent RNA helicase",NA
+"1450","HORVU.MOREX.r2.7HG0582880",5,FALSE,"Pre-mRNA-splicing factor CWC26",NA
+"1451","HORVU.MOREX.r2.7HG0583410",3,FALSE,"Transcription factor Inducer of CBF expression 1","32H"
+"1452","HORVU.MOREX.r2.7HG0583650",3,FALSE,"Glyceraldehyde-3-phosphate dehydrogenase","32H"
+"1453","HORVU.MOREX.r2.7HG0583780",1,FALSE,"Programmed cell death protein 4",NA
+"1454","HORVU.MOREX.r2.7HG0584220",6,FALSE,"40S ribosomal protein S13",NA
+"1455","HORVU.MOREX.r2.7HG0584290",6,FALSE,"40S ribosomal protein S13",NA
+"1456","HORVU.MOREX.r2.7HG0585780",1,FALSE,"TOM1-like protein 2",NA
+"1457","HORVU.MOREX.r2.7HG0585870",3,FALSE,"basic helix-loop-helix (bHLH) DNA-binding superfamily protein",NA
+"1458","HORVU.MOREX.r2.7HG0585940",4,FALSE,"Protein mago nashi-like protein",NA
+"1459","HORVU.MOREX.r2.7HG0586600",1,FALSE,"Vacuolar sorting-associated protein 33-like protein",NA
+"1460","HORVU.MOREX.r2.7HG0587100",3,FALSE,"Vacuolar protein sorting-associated protein 72-like protein",NA
+"1461","HORVU.MOREX.r2.7HG0587150",1,FALSE,"Kinase family protein","32H"
+"1462","HORVU.MOREX.r2.7HG0587540",1,FALSE,"Stromal cell-derived factor 2-like protein","32H"
+"1463","HORVU.MOREX.r2.7HG0587760",3,FALSE,"Abscisic acid receptor PYL8",NA
+"1464","HORVU.MOREX.r2.7HG0587790",1,FALSE,"Alcohol dehydrogenase, putative",NA
+"1465","HORVU.MOREX.r2.7HG0588110",1,FALSE,"Protein DJ-1",NA
+"1466","HORVU.MOREX.r2.7HG0588980",6,FALSE,"60S ribosomal protein L22, putative",NA
+"1467","HORVU.MOREX.r2.7HG0589160",3,FALSE,"Ubiquitin-conjugating enzyme E2","32H"
+"1468","HORVU.MOREX.r2.7HG0589960",1,FALSE,"Aquaporin",NA
+"1469","HORVU.MOREX.r2.7HG0590040",6,FALSE,"60S ribosomal protein L37a",NA
+"1470","HORVU.MOREX.r2.7HG0590460",1,FALSE,"O-methyltransferase","32H"
+"1471","HORVU.MOREX.r2.7HG0591130",1,FALSE,"Elongation factor G",NA
+"1472","HORVU.MOREX.r2.7HG0591540",1,FALSE,"Acyl-coenzyme A oxidase",NA
+"1473","HORVU.MOREX.r2.7HG0591940",1,FALSE,"Alba DNA/RNA-binding protein",NA
+"1474","HORVU.MOREX.r2.7HG0592090",1,FALSE,"Cytochrome P450",NA
+"1475","HORVU.MOREX.r2.7HG0592230",1,FALSE,"Cytochrome P450",NA
+"1476","HORVU.MOREX.r2.7HG0592250",4,FALSE,"26S protease regulatory subunit, putative","32H"
+"1477","HORVU.MOREX.r2.7HG0592260",1,FALSE,"Eukaryotic translation initiation factor 3 subunit I",NA
+"1478","HORVU.MOREX.r2.7HG0593010",1,FALSE,"Enoyl reductase",NA
+"1479","HORVU.MOREX.r2.7HG0593620",1,FALSE,"Histone deacetylase",NA
+"1480","HORVU.MOREX.r2.7HG0594080",1,FALSE,"Serine/threonine-protein phosphatase",NA
+"1481","HORVU.MOREX.r2.7HG0594230",1,FALSE,"Methyltransferase, putative",NA
+"1482","HORVU.MOREX.r2.7HG0594280",3,FALSE,"Beta-galactosidase",NA
+"1483","HORVU.MOREX.r2.7HG0594550",4,FALSE,"Elongation factor 1-gamma",NA
+"1484","HORVU.MOREX.r2.7HG0594690",4,FALSE,"ATP synthase subunit beta",NA
+"1485","HORVU.MOREX.r2.7HG0594960",1,FALSE,"Phospholipid-transporting ATPase",NA
+"1486","HORVU.MOREX.r2.7HG0595190",1,FALSE,"Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B",NA
+"1487","HORVU.MOREX.r2.7HG0595300",4,FALSE,"T-complex protein 1 subunit epsilon",NA
+"1488","HORVU.MOREX.r2.7HG0595620",6,FALSE,"40S ribosomal protein S24",NA
+"1489","HORVU.MOREX.r2.7HG0595640",3,FALSE,"Pleiotropic drug resistance ABC transporter",NA
+"1490","HORVU.MOREX.r2.7HG0595920",3,FALSE,"Heat shock transcription factor",NA
+"1491","HORVU.MOREX.r2.7HG0596060",1,FALSE,"Ras-related protein, expressed","32H"
+"1492","HORVU.MOREX.r2.7HG0597050",3,FALSE,"F-box protein","32H"
+"1493","HORVU.MOREX.r2.7HG0597220",4,FALSE,"26S protease regulatory subunit","32H"
+"1494","HORVU.MOREX.r2.7HG0597230",4,FALSE,"C2 and GRAM domain-containing protein",NA
+"1495","HORVU.MOREX.r2.7HG0598630",1,FALSE,"Malate dehydrogenase","32H"
+"1496","HORVU.MOREX.r2.7HG0599290",5,FALSE,"Alpha/beta-Hydrolases superfamily protein","32H"
+"1497","HORVU.MOREX.r2.7HG0599500",1,FALSE,"Tryptophan synthase beta chain","32H"
+"1498","HORVU.MOREX.r2.7HG0599860",1,FALSE,"AT hook motif DNA-binding family protein",NA
+"1499","HORVU.MOREX.r2.7HG0600720",2,FALSE,"Methionine--tRNA ligase",NA
+"1500","HORVU.MOREX.r2.7HG0601460",3,FALSE,"Protein FAM63A","32H"
+"1501","HORVU.MOREX.r2.7HG0602250",3,FALSE,"Mitogen-activated protein kinase",NA
+"1502","HORVU.MOREX.r2.7HG0602600",3,FALSE,"Myb transcription factor",NA
+"1503","HORVU.MOREX.r2.7HG0602800",1,FALSE,"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit","32H"
+"1504","HORVU.MOREX.r2.7HG0602880",4,FALSE,"26S proteasome regulatory subunit",NA
+"1505","HORVU.MOREX.r2.7HG0602950",1,FALSE,"Cytochrome P450","32H"
+"1506","HORVU.MOREX.r2.7HG0603210",3,FALSE,"14 kDa proline-rich protein DC2.15",NA
+"1507","HORVU.MOREX.r2.7HG0603990",3,FALSE,"Mitogen-activated protein kinase",NA
+"1508","HORVU.MOREX.r2.7HG0604070",1,FALSE,"Serrate RNA effector molecule",NA
+"1509","HORVU.MOREX.r2.7HG0604560",6,FALSE,"60S ribosomal protein L27",NA
+"1510","HORVU.MOREX.r2.7HG0604990",1,FALSE,"Heat shock 70 kDa protein",NA
+"1511","HORVU.MOREX.r2.7HG0605160",3,FALSE,"Kelch repeat-containing protein 1","32H"
+"1512","HORVU.MOREX.r2.7HG0605800",3,FALSE,"SKP1-like protein",NA
+"1513","HORVU.MOREX.r2.7HG0605830",3,FALSE,"SKP1-like protein",NA
+"1514","HORVU.MOREX.r2.7HG0605850",3,FALSE,"SKP1-like protein",NA
+"1515","HORVU.MOREX.r2.7HG0606560",1,FALSE,"Glutathione synthetase",NA
+"1516","HORVU.MOREX.r2.7HG0607670",4,FALSE,"50S ribosomal protein L24",NA
+"1517","HORVU.MOREX.r2.7HG0608230",6,FALSE,"60S ribosomal protein L27",NA
+"1518","HORVU.MOREX.r2.7HG0608370",1,FALSE,"Polyubiquitin",NA
+"1519","HORVU.MOREX.r2.7HG0608380",3,FALSE,"SKP1-like protein",NA
+"1520","HORVU.MOREX.r2.7HG0608850",6,FALSE,"30S ribosomal protein S11",NA
+"1521","HORVU.MOREX.r2.7HG0608870",3,FALSE,"60S ribosomal protein L44",NA
+"1522","HORVU.MOREX.r2.7HG0609250",2,FALSE,"Heat shock 70 kDa protein",NA
+"1523","HORVU.MOREX.r2.7HG0609850",3,FALSE,"Elongation factor","32H"
+"1524","HORVU.MOREX.r2.7HG0610600",3,FALSE,"Tubulin beta chain",NA
+"1525","HORVU.MOREX.r2.7HG0611040",2,FALSE,"Aspartate--tRNA ligase",NA
+"1526","HORVU.MOREX.r2.7HG0611300",1,FALSE,"Embryo yellow protein",NA
+"1527","HORVU.MOREX.r2.7HG0611310",3,FALSE,"ATP-dependent zinc metalloprotease FTSH protein","32H"
+"1528","HORVU.MOREX.r2.7HG0612020",1,FALSE,"WAT1-related protein",NA
+"1529","HORVU.MOREX.r2.7HG0612230",1,FALSE,"Programmed cell death protein 4",NA
+"1530","HORVU.MOREX.r2.7HG0612250",2,FALSE,"rRNA 2'-O-methyltransferase fibrillarin 2",NA
+"1531","HORVU.MOREX.r2.7HG0613010",5,FALSE,"Protein kinase",NA
+"1532","HORVU.MOREX.r2.7HG0613130",4,FALSE,"ATP synthase subunit beta",NA
+"1533","HORVU.MOREX.r2.7HG0613170",2,FALSE,"WAT1-related protein",NA
+"1534","HORVU.MOREX.r2.7HG0613400",1,FALSE,"Kinase","32H"
+"1535","HORVU.MOREX.r2.7HG0613790",1,FALSE,"UDP-glycosyltransferase",NA
+"1536","HORVU.MOREX.r2.7HG0613880",1,FALSE,"Villin",NA
+"1537","HORVU.MOREX.r2.7HG0614750",1,FALSE,"WD-repeat protein, putative",NA
+"1538","HORVU.MOREX.r2.7HG0615090",3,FALSE,"Histone H2A",NA
+"1539","HORVU.MOREX.r2.7HG0615100",3,FALSE,"Histone H2A",NA
+"1540","HORVU.MOREX.r2.7HG0615370",3,FALSE,"UDP-glucose 4-epimerase 1","32H"
+"1541","HORVU.MOREX.r2.7HG0615620",5,FALSE,"Photosystem II reaction center PsbP family protein","32H"
+"1542","HORVU.MOREX.r2.7HG0616250",3,TRUE,"WRKY transcription factor",NA
+"1543","HORVU.MOREX.r2.7HG0616260",3,FALSE,"WRKY transcription factor",NA
+"1544","HORVU.MOREX.r2.7HG0616280",3,TRUE,"POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND REDISTRIBUTION protein",NA
+"1545","HORVU.MOREX.r2.7HG0616760",1,FALSE,"Plasma membrane ATPase",NA
+"1546","HORVU.MOREX.r2.7HG0617370",1,FALSE,"Glycosyltransferase",NA
+"1547","HORVU.MOREX.r2.7HG0617640",2,FALSE,"Isoleucine--tRNA ligase",NA
+"1548","HORVU.MOREX.r2.7HG0617910",3,FALSE,"Sucrose phosphate synthase","32H"
+"1549","HORVU.MOREX.r2.7HG0618510",3,TRUE,"Ubiquitin system component Cue protein, putative",NA
+"1550","HORVU.MOREX.r2.7HG0619260",6,FALSE,"60S ribosomal protein L27",NA
+"1551","HORVU.MOREX.r2.7HG0619420",2,FALSE,"Chaperone protein htpG family protein","32H"
+"1552","HORVU.MOREX.r2.7HG0619680",2,FALSE,"Histone H2A",NA
+"1553","HORVU.MOREX.r2.7HG0620830",1,FALSE,"RNA-binding protein",NA
+"1554","HORVU.MOREX.r2.7HG0621420",1,FALSE,"Expansin-like protein",NA
+"1555","HORVU.MOREX.r2.7HG0621430",1,FALSE,"Expansin-like protein",NA
+"1556","HORVU.MOREX.r2.7HG0621570",1,FALSE,"O-methyltransferase",NA
+"1557","HORVU.MOREX.r2.7HG0622270",1,FALSE,"Delta(24)-sterol reductase",NA
+"1558","HORVU.MOREX.r2.7HG0622410",3,FALSE,"Protein argonaute",NA
+"1559","HORVU.MOREX.r2.7HG0622910",1,FALSE,"UDP-glycosyltransferase",NA
+"1560","HORVU.MOREX.r2.UnG0624170",1,FALSE,"D-glycerate dehydrogenase/hydroxypyruvate reductase",NA
+"1561","HORVU.MOREX.r2.UnG0625130",1,FALSE,"ATP synthase subunit alpha",NA
+"1562","HORVU.MOREX.r2.UnG0625560",1,FALSE,"Cysteine proteinase",NA
+"1563","HORVU.MOREX.r2.UnG0625600",3,FALSE,"CRT-binding factor",NA
+"1564","HORVU.MOREX.r2.UnG0625900",3,FALSE,"SKP1-like protein",NA
+"1565","HORVU.MOREX.r2.UnG0625960",3,FALSE,"SKP1-like protein",NA
+"1566","HORVU.MOREX.r2.UnG0627650",1,FALSE,"Cysteine proteinase",NA
