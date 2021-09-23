@@ -1,18 +1,18 @@
-# Support code for Velásquez-Zapata *et.al.* (2021) Multi-layered analysis of an interolog-based barley interactome links MLA immune receptor signaling with defense gene expression.   
+# Support code for Velásquez-Zapata *et.al.* (2021) An interolog-based barley interactome as an integration framework for immune signaling.   
 
-This repository contains the support code for the manuscript Velásquez-Zapata *et.al.* (2021) Multi-layered analysis of an interolog-based barley interactome links MLA immune receptor signaling with defense gene expression.   
+This repository contains the support code for the manuscript Velásquez-Zapata *et.al.* (2021) An interolog-based barley interactome as an integration framework for immune signaling.   
 
 **Overview**
 
 This repository contains the main functions that were implemented to develop the data analysis of the manuscript. It is separated in several R functions that were used across the different analyses through the results section. 
 
-The paper "Multi-layered analysis of an interolog-based barley interactome links MLA immune receptor signaling with defense gene expression" has been submitted for peer review, but the preprint can be accessed from ... Please refer to the manuscript for more details about each function. The entire pipeline has been coded in R.
+The paper "An interolog-based barley interactome as an integration framework for immune signaling " has been submitted for peer review. Please refer to the manuscript for more details about each function. The entire pipeline has been coded in R.
 
 **Citations**
 
 If you use part of this code please cite  
 
-* Velásquez-Zapata V, Elmore JM, Fuerst G, Wise RP. 2021. Multi-layered analysis of an interolog-based barley interactome links MLA immune receptor signaling with defense gene expression.
+* Velásquez-Zapata V, Elmore JM, Fuerst G, Wise RP. 2021. An interolog-based barley interactome as an integration framework for immune signaling.
 
 
 **Software requirements**
